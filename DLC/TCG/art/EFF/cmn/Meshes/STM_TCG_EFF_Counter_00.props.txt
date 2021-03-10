@@ -1,0 +1,26 @@
+Materials[1] =
+{
+    Materials[0] = Material3'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_EFF_jump_00.M_TCG_EFF_jump_00'
+}
+SourceModels[0] = {}
+StaticMaterials[1] =
+{
+    StaticMaterials[0] =
+    {
+        MaterialInterface = Material3'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_EFF_jump_00.M_TCG_EFF_jump_00'
+        MaterialSlotName = 01 - Default
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 82.1377, 83.4594, 0, 0 }
+        }
+    }
+}
+Sockets[0] = {}
+ExtendedBounds =
+{
+    Origin = { X=7.62939e-006, Y=-45.1725, Z=-4.99892e-006 }
+    BoxExtent = { X=96.0208, Y=50.8483, Z=1.0656e-005 }
+    SphereRadius = 100.988
+}

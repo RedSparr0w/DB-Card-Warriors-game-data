@@ -1,0 +1,26 @@
+Materials[1] =
+{
+    Materials[0] = MaterialInstanceConstant'/AT/Content/Art/EFF/e/cmn/Materials/Manage/MI_e_e_cmn_m0001.MI_e_e_cmn_m0001'
+}
+SourceModels[0] = {}
+StaticMaterials[1] =
+{
+    StaticMaterials[0] =
+    {
+        MaterialInterface = MaterialInstanceConstant'/AT/Content/Art/EFF/e/cmn/Materials/Manage/MI_e_e_cmn_m0001.MI_e_e_cmn_m0001'
+        MaterialSlotName = lambert1
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 28.1012, 9.09106, 0, 0 }
+        }
+    }
+}
+Sockets[0] = {}
+ExtendedBounds =
+{
+    Origin = { X=8.19429, Y=1.22216, Z=0.654508 }
+    BoxExtent = { X=3.43032, Y=5.8344, Z=4.20809e-005 }
+    SphereRadius = 6.76811
+}

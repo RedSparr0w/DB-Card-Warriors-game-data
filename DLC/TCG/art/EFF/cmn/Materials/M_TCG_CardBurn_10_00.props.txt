@@ -1,0 +1,58 @@
+TwoSided = true
+bDisableDepthTest = false
+bIsMasked = false
+ReferencedTextures[1] =
+{
+    ReferencedTextures[0] = Texture2D'/AT/Content/DLC/TCG/art/EFF/cmn/Textures/DesignCharacter_N.DesignCharacter_N'
+}
+Expressions[24] =
+{
+    Expressions[5] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_CardBurn_10_00.MaterialExpressionTextureSample_1'
+    Expressions[7] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_CardBurn_10_00.MaterialExpressionTextureSample_2'
+    Expressions[10] = MaterialExpressionTextureSampleParameter2D'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_CardBurn_10_00.MaterialExpressionTextureSampleParameter2D_1'
+    Expressions[13] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_CardBurn_10_00.MaterialExpressionScalarParameter_3'
+    Expressions[16] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_CardBurn_10_00.MaterialExpressionScalarParameter_4'
+}
+CachedExpressionData =
+{
+    Parameters =
+    {
+        Entries[5] =
+        {
+            Entries[0] = { ParameterInfos[0]={} }
+            Entries[1] = { ParameterInfos[0]={} }
+            Entries[2] = { ParameterInfos[0]={} }
+            Entries[3] = { ParameterInfos[0]={} }
+            Entries[4] = { ParameterInfos[0]={} }
+        }
+        ScalarValues[0] = {}
+        VectorValues[0] = {}
+        TextureValues[0] = {}
+    }
+    ReferencedTextures[0] = {}
+}
+BlendMode = BLEND_Masked (1)
+OpacityMaskClipValue = 0.333
+CollectedTextureParameters[1] =
+{
+    CollectedTextureParameters[0] =
+    {
+        Texture = Texture2D'/AT/Content/Art/EFF/e/cmn/Textures/T_cmn_noise_04_00_A.T_cmn_noise_04_00_A'
+        Name = Param
+        Group = None
+    }
+}
+CollectedScalarParameters[2] =
+{
+    CollectedScalarParameters[0] = { Value=1, Name=tile, Group=None }
+    CollectedScalarParameters[1] = { Value=0.8, Name=RGE, Group=None }
+}
+CollectedVectorParameters[0] = {}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

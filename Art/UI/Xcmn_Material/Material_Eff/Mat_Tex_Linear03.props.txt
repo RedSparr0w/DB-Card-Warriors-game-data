@@ -1,0 +1,88 @@
+TwoSided = false
+bDisableDepthTest = false
+bIsMasked = false
+ReferencedTextures[3] =
+{
+    ReferencedTextures[0] = Texture2D'/AT/Content/Art/UI/Start_Commu/Tex/Eff_Emb_Line01.Eff_Emb_Line01'
+    ReferencedTextures[1] = Texture2D'/AT/Content/Art/UI/Start_Commu/Tex/Eff_Emb_Line02.Eff_Emb_Line02'
+    ReferencedTextures[2] = Texture2D'/AT/Content/Art/UI/Start_Commu/Tex/Emb_Mask_Pedestal.Emb_Mask_Pedestal'
+}
+Expressions[17] =
+{
+    Expressions[1] = MaterialExpressionTextureSampleParameter2D'/AT/Content/Art/UI/Xcmn_Material/Material_Eff/Mat_Tex_Linear03.MaterialExpressionTextureSampleParameter2D_3'
+    Expressions[3] = MaterialExpressionVectorParameter'/AT/Content/Art/UI/Xcmn_Material/Material_Eff/Mat_Tex_Linear03.MaterialExpressionVectorParameter_2'
+    Expressions[9] = MaterialExpressionVectorParameter'/AT/Content/Art/UI/Xcmn_Material/Material_Eff/Mat_Tex_Linear03.MaterialExpressionVectorParameter_3'
+    Expressions[10] = MaterialExpressionScalarParameter'/AT/Content/Art/UI/Xcmn_Material/Material_Eff/Mat_Tex_Linear03.MaterialExpressionScalarParameter_5'
+    Expressions[11] = MaterialExpressionScalarParameter'/AT/Content/Art/UI/Xcmn_Material/Material_Eff/Mat_Tex_Linear03.MaterialExpressionScalarParameter_6'
+    Expressions[12] = MaterialExpressionTextureSampleParameter2D'/AT/Content/Art/UI/Xcmn_Material/Material_Eff/Mat_Tex_Linear03.MaterialExpressionTextureSampleParameter2D_0'
+    Expressions[13] = MaterialExpressionTextureSampleParameter2D'/AT/Content/Art/UI/Xcmn_Material/Material_Eff/Mat_Tex_Linear03.MaterialExpressionTextureSampleParameter2D_7'
+}
+CachedExpressionData =
+{
+    Parameters =
+    {
+        Entries[5] =
+        {
+            Entries[0] = { ParameterInfos[0]={} }
+            Entries[1] = { ParameterInfos[0]={} }
+            Entries[2] = { ParameterInfos[0]={} }
+            Entries[3] = { ParameterInfos[0]={} }
+            Entries[4] = { ParameterInfos[0]={} }
+        }
+        ScalarValues[0] = {}
+        VectorValues[0] = {}
+        TextureValues[0] = {}
+    }
+    ReferencedTextures[0] = {}
+}
+BlendMode = BLEND_Translucent (2)
+OpacityMaskClipValue = 0.333
+CollectedTextureParameters[3] =
+{
+    CollectedTextureParameters[0] =
+    {
+        Texture = Texture2D'/AT/Content/Art/UI/Start_Commu/Tex/Eff_Emb_Line01.Eff_Emb_Line01'
+        Name = Tex_Deco_Anm00
+        Group = None
+    }
+    CollectedTextureParameters[1] =
+    {
+        Texture = Texture2D'/AT/Content/Art/UI/Start_Commu/Tex/Emb_Mask_Pedestal.Emb_Mask_Pedestal'
+        Name = Mask
+        Group = None
+    }
+    CollectedTextureParameters[2] =
+    {
+        Texture = Texture2D'/AT/Content/Art/UI/Start_Commu/Tex/Eff_Emb_Line02.Eff_Emb_Line02'
+        Name = Tex_Deco_Anm01
+        Group = None
+    }
+}
+CollectedScalarParameters[2] =
+{
+    CollectedScalarParameters[0] = { Value=0.5, Name=Anm00_Alpha, Group=None }
+    CollectedScalarParameters[1] = { Value=0.3, Name=Anm00_Alpha01, Group=None }
+}
+CollectedVectorParameters[2] =
+{
+    CollectedVectorParameters[0] =
+    {
+        Value = { R=-0.1, G=0, B=0, A=1 }
+        Name = Speed00
+        Group = None
+    }
+    CollectedVectorParameters[1] =
+    {
+        Value = { R=0.2, G=0, B=0, A=1 }
+        Name = Speed01
+        Group = None
+    }
+}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

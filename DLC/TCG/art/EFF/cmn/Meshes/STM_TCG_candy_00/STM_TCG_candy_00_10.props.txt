@@ -1,0 +1,26 @@
+Materials[1] =
+{
+    Materials[0] = Material3'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_cracker_01.M_TCG_cracker_01'
+}
+SourceModels[0] = {}
+StaticMaterials[1] =
+{
+    StaticMaterials[0] =
+    {
+        MaterialInterface = Material3'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_cracker_01.M_TCG_cracker_01'
+        MaterialSlotName = lambert2
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 196.014, 65.6273, 0, 0 }
+        }
+    }
+}
+Sockets[0] = {}
+ExtendedBounds =
+{
+    Origin = { X=8.29424, Y=-9.00636, Z=-10.5262 }
+    BoxExtent = { X=10.1063, Y=17.4337, Z=13.6881 }
+    SphereRadius = 22.0132
+}

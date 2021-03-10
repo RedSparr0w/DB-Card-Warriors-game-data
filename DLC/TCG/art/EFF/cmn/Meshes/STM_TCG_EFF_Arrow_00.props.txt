@@ -1,0 +1,62 @@
+Materials[4] =
+{
+    Materials[0] = Material3'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_CMN_Other_Arrow_03.M_TCG_CMN_Other_Arrow_03'
+    Materials[1] = Material3'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_CMN_Other_Arrow_02.M_TCG_CMN_Other_Arrow_02'
+    Materials[2] = Material3'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_CMN_Other_Arrow_01.M_TCG_CMN_Other_Arrow_01'
+    Materials[3] = Material3'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_CMN_Other_Arrow_04.M_TCG_CMN_Other_Arrow_04'
+}
+SourceModels[0] = {}
+StaticMaterials[4] =
+{
+    StaticMaterials[0] =
+    {
+        MaterialInterface = Material3'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_CMN_Other_Arrow_03.M_TCG_CMN_Other_Arrow_03'
+        MaterialSlotName = lambert2
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 67.2852, 1136.8, 0, 0 }
+        }
+    }
+    StaticMaterials[1] =
+    {
+        MaterialInterface = Material3'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_CMN_Other_Arrow_02.M_TCG_CMN_Other_Arrow_02'
+        MaterialSlotName = aka
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 88.0151, 1114.46, 0, 0 }
+        }
+    }
+    StaticMaterials[2] =
+    {
+        MaterialInterface = Material3'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_CMN_Other_Arrow_01.M_TCG_CMN_Other_Arrow_01'
+        MaterialSlotName = siro
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 101.15, 1112.71, 0, 0 }
+        }
+    }
+    StaticMaterials[3] =
+    {
+        MaterialInterface = Material3'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_CMN_Other_Arrow_04.M_TCG_CMN_Other_Arrow_04'
+        MaterialSlotName = siro_ball2
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 39.2497, 1137.19, 0, 0 }
+        }
+    }
+}
+Sockets[0] = {}
+ExtendedBounds =
+{
+    Origin = { X=542.221, Y=-3.8147e-006, Z=0 }
+    BoxExtent = { X=542.221, Y=18, Z=18 }
+    SphereRadius = 542.221
+}

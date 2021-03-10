@@ -1,0 +1,71 @@
+TwoSided = false
+bDisableDepthTest = false
+bIsMasked = false
+ReferencedTextures[1] =
+{
+    ReferencedTextures[0] = Texture2D'/AT/Content/Art/UI/Xcmn_Eff/Tex_Light/Xef_Light01.Xef_Light01'
+}
+Expressions[19] =
+{
+    Expressions[1] = MaterialExpressionTextureSampleParameter2D'/AT/Content/DLC/TCG/art/UI/C_Xcmn_Material/Material/Mat_Sparkle.MaterialExpressionTextureSampleParameter2D_1'
+    Expressions[7] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG/art/UI/C_Xcmn_Material/Material/Mat_Sparkle.MaterialExpressionScalarParameter_1'
+    Expressions[8] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG/art/UI/C_Xcmn_Material/Material/Mat_Sparkle.MaterialExpressionScalarParameter_2'
+    Expressions[11] = MaterialExpressionVectorParameter'/AT/Content/DLC/TCG/art/UI/C_Xcmn_Material/Material/Mat_Sparkle.MaterialExpressionVectorParameter_2'
+    Expressions[12] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG/art/UI/C_Xcmn_Material/Material/Mat_Sparkle.MaterialExpressionScalarParameter_4'
+    Expressions[16] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG/art/UI/C_Xcmn_Material/Material/Mat_Sparkle.MaterialExpressionScalarParameter_0'
+    Expressions[17] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG/art/UI/C_Xcmn_Material/Material/Mat_Sparkle.MaterialExpressionScalarParameter_5'
+}
+CachedExpressionData =
+{
+    Parameters =
+    {
+        Entries[5] =
+        {
+            Entries[0] = { ParameterInfos[0]={} }
+            Entries[1] = { ParameterInfos[0]={} }
+            Entries[2] = { ParameterInfos[0]={} }
+            Entries[3] = { ParameterInfos[0]={} }
+            Entries[4] = { ParameterInfos[0]={} }
+        }
+        ScalarValues[0] = {}
+        VectorValues[0] = {}
+        TextureValues[0] = {}
+    }
+    ReferencedTextures[0] = {}
+}
+BlendMode = BLEND_Translucent (2)
+OpacityMaskClipValue = 0.333
+CollectedTextureParameters[1] =
+{
+    CollectedTextureParameters[0] =
+    {
+        Texture = Texture2D'/AT/Content/Art/UI/Xcmn_Eff/Tex_Light/Xef_Light01.Xef_Light01'
+        Name = Texture_1
+        Group = None
+    }
+}
+CollectedScalarParameters[5] =
+{
+    CollectedScalarParameters[0] = { Value=0.6, Name=Speed_3, Group=None }
+    CollectedScalarParameters[1] = { Value=0.5, Name=Flash_Alpha_1, Group=None }
+    CollectedScalarParameters[2] = { Value=-0.1, Name=Speed_Rot, Group=None }
+    CollectedScalarParameters[3] = { Value=-1, Name=Flash, Group=None }
+    CollectedScalarParameters[4] = { Value=1, Name=Stagger_Time, Group=None }
+}
+CollectedVectorParameters[1] =
+{
+    CollectedVectorParameters[0] =
+    {
+        Value = { R=0.5, G=0.5, B=0, A=1 }
+        Name = Center_1
+        Group = None
+    }
+}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

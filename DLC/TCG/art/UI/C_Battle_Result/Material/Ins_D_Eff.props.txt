@@ -1,0 +1,62 @@
+Parent = Material3'/AT/Content/Art/UI/Xcmn_Material/Mat_Switch_join_Eff.Mat_Switch_join_Eff'
+ScalarParameterValues[1] =
+{
+    ScalarParameterValues[0] =
+    {
+        ParameterInfo = { Name=RefractionDepthBias }
+        ParameterValue = 0
+        ParameterName = None
+    }
+}
+TextureParameterValues[4] =
+{
+    TextureParameterValues[0] =
+    {
+        ParameterInfo = { Name=Tex_Eff }
+        ParameterValue = Texture2D'/AT/Content/DLC/TCG/art/UI_L10N/ja_JP/C_Battle_Result/Lang_Defeat.Lang_Defeat'
+        ParameterName = None
+    }
+    TextureParameterValues[1] =
+    {
+        ParameterInfo = { Name=Tex_Line }
+        ParameterValue = Texture2D'/AT/Content/DLC/TCG/art/UI_L10N/ja_JP/C_Battle_Result/Lang_Defeat.Lang_Defeat'
+        ParameterName = None
+    }
+    TextureParameterValues[2] =
+    {
+        ParameterInfo = { Name=Tex_Skin }
+        ParameterValue = Texture2D'/AT/Content/DLC/TCG/art/UI_L10N/ja_JP/C_Battle_Result/Lang_Defeat.Lang_Defeat'
+        ParameterName = None
+    }
+    TextureParameterValues[3] =
+    {
+        ParameterInfo = { Name=Tex_Skin_Color }
+        ParameterValue = Texture2D'/AT/Content/DLC/TCG/art/UI_L10N/ja_JP/C_Battle_Result/Lang_Defeat.Lang_Defeat'
+        ParameterName = None
+    }
+}
+VectorParameterValues[0] = {}
+BasePropertyOverrides =
+{
+    bOverride_BlendMode = true
+    BlendMode = BLEND_Additive (3)
+    bOverride_TwoSided = false
+    TwoSided = false
+    bOverride_OpacityMaskClipValue = false
+    OpacityMaskClipValue = 0.3333
+}
+StaticParameters =
+{
+    StaticSwitchParameters[0] = {}
+    StaticComponentMaskParameters[0] = {}
+    TerrainLayerWeightParameters[0] = {}
+    MaterialLayersParameters[0] = {}
+}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

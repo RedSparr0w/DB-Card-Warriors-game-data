@@ -1,0 +1,89 @@
+TwoSided = false
+bDisableDepthTest = false
+bIsMasked = false
+ReferencedTextures[3] =
+{
+    ReferencedTextures[0] = Texture2D'/AT/Content/Art/UI/Complete_Z/Tex/Eff_Cds_Prism.Eff_Cds_Prism'
+    ReferencedTextures[1] = Texture2D'/AT/Content/Art/UI/Complete_Z/Tex/Eff_Prism_Coor00.Eff_Prism_Coor00'
+    ReferencedTextures[2] = Texture2D'/AT/Content/Art/UI/Complete_Z_Tex/Tex_Cds/Blank_CDS.Blank_CDS'
+}
+Expressions[32] =
+{
+    Expressions[7] = MaterialExpressionScalarParameter'/AT/Content/Art/UI/Xcmn_Material/Material_Eff/Mat_Mask_Prism.MaterialExpressionScalarParameter_3'
+    Expressions[8] = MaterialExpressionScalarParameter'/AT/Content/Art/UI/Xcmn_Material/Material_Eff/Mat_Mask_Prism.MaterialExpressionScalarParameter_4'
+    Expressions[14] = MaterialExpressionScalarParameter'/AT/Content/Art/UI/Xcmn_Material/Material_Eff/Mat_Mask_Prism.MaterialExpressionScalarParameter_7'
+    Expressions[16] = MaterialExpressionScalarParameter'/AT/Content/Art/UI/Xcmn_Material/Material_Eff/Mat_Mask_Prism.MaterialExpressionScalarParameter_8'
+    Expressions[18] = MaterialExpressionScalarParameter'/AT/Content/Art/UI/Xcmn_Material/Material_Eff/Mat_Mask_Prism.MaterialExpressionScalarParameter_9'
+    Expressions[19] = MaterialExpressionScalarParameter'/AT/Content/Art/UI/Xcmn_Material/Material_Eff/Mat_Mask_Prism.MaterialExpressionScalarParameter_10'
+    Expressions[23] = MaterialExpressionVectorParameter'/AT/Content/Art/UI/Xcmn_Material/Material_Eff/Mat_Mask_Prism.MaterialExpressionVectorParameter_4'
+    Expressions[26] = MaterialExpressionVectorParameter'/AT/Content/Art/UI/Xcmn_Material/Material_Eff/Mat_Mask_Prism.MaterialExpressionVectorParameter_5'
+    Expressions[30] = MaterialExpressionTextureSampleParameter2D'/AT/Content/Art/UI/Xcmn_Material/Material_Eff/Mat_Mask_Prism.MaterialExpressionTextureSampleParameter2D_0'
+    Expressions[31] = MaterialExpressionTextureSampleParameter2D'/AT/Content/Art/UI/Xcmn_Material/Material_Eff/Mat_Mask_Prism.MaterialExpressionTextureSampleParameter2D_1'
+}
+CachedExpressionData =
+{
+    Parameters =
+    {
+        Entries[5] =
+        {
+            Entries[0] = { ParameterInfos[0]={} }
+            Entries[1] = { ParameterInfos[0]={} }
+            Entries[2] = { ParameterInfos[0]={} }
+            Entries[3] = { ParameterInfos[0]={} }
+            Entries[4] = { ParameterInfos[0]={} }
+        }
+        ScalarValues[0] = {}
+        VectorValues[0] = {}
+        TextureValues[0] = {}
+    }
+    ReferencedTextures[0] = {}
+}
+BlendMode = BLEND_Translucent (2)
+OpacityMaskClipValue = 0.333
+CollectedTextureParameters[2] =
+{
+    CollectedTextureParameters[0] =
+    {
+        Texture = Texture2D'/AT/Content/Art/UI/Complete_Z_Tex/Tex_Cds/Blank_CDS.Blank_CDS'
+        Name = Texture_Mask
+        Group = None
+    }
+    CollectedTextureParameters[1] =
+    {
+        Texture = Texture2D'/AT/Content/Art/UI/Complete_Z/Tex/Eff_Prism_Coor00.Eff_Prism_Coor00'
+        Name = Texture01
+        Group = None
+    }
+}
+CollectedScalarParameters[6] =
+{
+    CollectedScalarParameters[0] = { Value=2, Name=Tex00_MoveTime, Group=None }
+    CollectedScalarParameters[1] = { Value=5, Name=Tex00_WaitTime, Group=None }
+    CollectedScalarParameters[2] = { Value=5, Name=Tex00_WaitTime, Group=None }
+    CollectedScalarParameters[3] = { Value=2, Name=Tex00_MoveTime, Group=None }
+    CollectedScalarParameters[4] = { Value=2, Name=Tex00_rows, Group=None }
+    CollectedScalarParameters[5] = { Value=5, Name=Tex00_columns, Group=None }
+}
+CollectedVectorParameters[2] =
+{
+    CollectedVectorParameters[0] =
+    {
+        Value = { R=4, G=4, B=1, A=1 }
+        Name = Tiring
+        Group = None
+    }
+    CollectedVectorParameters[1] =
+    {
+        Value = { R=4, G=4, B=1, A=1 }
+        Name = Tiring
+        Group = None
+    }
+}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

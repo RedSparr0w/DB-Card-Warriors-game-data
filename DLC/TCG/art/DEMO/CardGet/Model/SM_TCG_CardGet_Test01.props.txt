@@ -1,0 +1,50 @@
+Materials[3] =
+{
+    Materials[0] = Material3'/AT/Content/Developers/kotakara/Collections/Card/TestModel/M_Card_Test.M_Card_Test'
+    Materials[1] = Material3'/AT/Content/DLC/TCG/art/DEMO/CardGet/Material/M_TCG_CardGet_Back.M_TCG_CardGet_Back'
+    Materials[2] = Material3'/AT/Content/DLC/TCG/art/DEMO/CardGet/Material/M_TCG_CardGet_Side.M_TCG_CardGet_Side'
+}
+SourceModels[0] = {}
+StaticMaterials[3] =
+{
+    StaticMaterials[0] =
+    {
+        MaterialInterface = Material3'/AT/Content/Developers/kotakara/Collections/Card/TestModel/M_Card_Test.M_Card_Test'
+        MaterialSlotName = 01 - Default
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 7.66255, 12.1832, 0, 0 }
+        }
+    }
+    StaticMaterials[1] =
+    {
+        MaterialInterface = Material3'/AT/Content/DLC/TCG/art/DEMO/CardGet/Material/M_TCG_CardGet_Back.M_TCG_CardGet_Back'
+        MaterialSlotName = 02 - Default
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 7.11506, 12.2163, 0, 0 }
+        }
+    }
+    StaticMaterials[2] =
+    {
+        MaterialInterface = Material3'/AT/Content/DLC/TCG/art/DEMO/CardGet/Material/M_TCG_CardGet_Side.M_TCG_CardGet_Side'
+        MaterialSlotName = 03 - Default
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 0.571298, 2.88942, 0, 0 }
+        }
+    }
+}
+Sockets[0] = {}
+ExtendedBounds =
+{
+    Origin = { X=0, Y=0, Z=0.0250005 }
+    BoxExtent = { X=2.95, Y=4.3, Z=0.025 }
+    SphereRadius = 5.09303
+}

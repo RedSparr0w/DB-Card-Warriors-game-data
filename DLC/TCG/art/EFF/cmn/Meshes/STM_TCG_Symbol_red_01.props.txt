@@ -1,0 +1,38 @@
+Materials[2] =
+{
+    Materials[0] = MaterialInstanceConstant'/AT/Content/Art/EFF/e/cmn/Materials/Manage/MI_e_e_cmn_m0001.MI_e_e_cmn_m0001'
+    Materials[1] = MaterialInstanceConstant'/AT/Content/Art/EFF/e/cmn/Materials/Manage/MI_e_e_cmn_m0001.MI_e_e_cmn_m0001'
+}
+SourceModels[0] = {}
+StaticMaterials[2] =
+{
+    StaticMaterials[0] =
+    {
+        MaterialInterface = MaterialInstanceConstant'/AT/Content/Art/EFF/e/cmn/Materials/Manage/MI_e_e_cmn_m0001.MI_e_e_cmn_m0001'
+        MaterialSlotName = WorldGridMaterial
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 0, 0, 0, 0 }
+        }
+    }
+    StaticMaterials[1] =
+    {
+        MaterialInterface = MaterialInstanceConstant'/AT/Content/Art/EFF/e/cmn/Materials/Manage/MI_e_e_cmn_m0001.MI_e_e_cmn_m0001'
+        MaterialSlotName = 01 - Default
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 17.8885, 0, 0, 0 }
+        }
+    }
+}
+Sockets[0] = {}
+ExtendedBounds =
+{
+    Origin = { X=0, Y=0, Z=0 }
+    BoxExtent = { X=24.0046, Y=24.0201, Z=0 }
+    SphereRadius = 33.9585
+}

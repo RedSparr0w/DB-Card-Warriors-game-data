@@ -1,0 +1,123 @@
+TwoSided = false
+bDisableDepthTest = false
+bIsMasked = false
+ReferencedTextures[1] =
+{
+    ReferencedTextures[0] = Texture2D'/AT/Content/Art/UI/Xcmn_Material/Tex/Font_Eff.Font_Eff'
+}
+Expressions[49] =
+{
+    Expressions[4] = MaterialExpressionVectorParameter'/AT/Content/Art/UI/Xcmn_Material/Material_Gauge/Mat_Gauge_Sirc01.MaterialExpressionVectorParameter_31'
+    Expressions[8] = MaterialExpressionScalarParameter'/AT/Content/Art/UI/Xcmn_Material/Material_Gauge/Mat_Gauge_Sirc01.MaterialExpressionScalarParameter_22'
+    Expressions[9] = MaterialExpressionScalarParameter'/AT/Content/Art/UI/Xcmn_Material/Material_Gauge/Mat_Gauge_Sirc01.MaterialExpressionScalarParameter_33'
+    Expressions[10] = MaterialExpressionVectorParameter'/AT/Content/Art/UI/Xcmn_Material/Material_Gauge/Mat_Gauge_Sirc01.MaterialExpressionVectorParameter_40'
+    Expressions[16] = MaterialExpressionScalarParameter'/AT/Content/Art/UI/Xcmn_Material/Material_Gauge/Mat_Gauge_Sirc01.MaterialExpressionScalarParameter_47'
+    Expressions[17] = MaterialExpressionScalarParameter'/AT/Content/Art/UI/Xcmn_Material/Material_Gauge/Mat_Gauge_Sirc01.MaterialExpressionScalarParameter_48'
+    Expressions[26] = MaterialExpressionScalarParameter'/AT/Content/Art/UI/Xcmn_Material/Material_Gauge/Mat_Gauge_Sirc01.MaterialExpressionScalarParameter_7'
+    Expressions[29] = MaterialExpressionScalarParameter'/AT/Content/Art/UI/Xcmn_Material/Material_Gauge/Mat_Gauge_Sirc01.MaterialExpressionScalarParameter_9'
+    Expressions[31] = MaterialExpressionScalarParameter'/AT/Content/Art/UI/Xcmn_Material/Material_Gauge/Mat_Gauge_Sirc01.MaterialExpressionScalarParameter_13'
+    Expressions[33] = MaterialExpressionVectorParameter'/AT/Content/Art/UI/Xcmn_Material/Material_Gauge/Mat_Gauge_Sirc01.MaterialExpressionVectorParameter_22'
+    Expressions[34] = MaterialExpressionVectorParameter'/AT/Content/Art/UI/Xcmn_Material/Material_Gauge/Mat_Gauge_Sirc01.MaterialExpressionVectorParameter_21'
+    Expressions[35] = MaterialExpressionVectorParameter'/AT/Content/Art/UI/Xcmn_Material/Material_Gauge/Mat_Gauge_Sirc01.MaterialExpressionVectorParameter_13'
+    Expressions[36] = MaterialExpressionScalarParameter'/AT/Content/Art/UI/Xcmn_Material/Material_Gauge/Mat_Gauge_Sirc01.MaterialExpressionScalarParameter_0'
+    Expressions[39] = MaterialExpressionTextureSampleParameter2D'/AT/Content/Art/UI/Xcmn_Material/Material_Gauge/Mat_Gauge_Sirc01.MaterialExpressionTextureSampleParameter2D_3'
+    Expressions[41] = MaterialExpressionScalarParameter'/AT/Content/Art/UI/Xcmn_Material/Material_Gauge/Mat_Gauge_Sirc01.MaterialExpressionScalarParameter_10'
+    Expressions[46] = MaterialExpressionScalarParameter'/AT/Content/Art/UI/Xcmn_Material/Material_Gauge/Mat_Gauge_Sirc01.MaterialExpressionScalarParameter_1'
+    Expressions[47] = MaterialExpressionVectorParameter'/AT/Content/Art/UI/Xcmn_Material/Material_Gauge/Mat_Gauge_Sirc01.MaterialExpressionVectorParameter_18'
+    Expressions[48] = MaterialExpressionVectorParameter'/AT/Content/Art/UI/Xcmn_Material/Material_Gauge/Mat_Gauge_Sirc01.MaterialExpressionVectorParameter_0'
+}
+CachedExpressionData =
+{
+    Parameters =
+    {
+        Entries[5] =
+        {
+            Entries[0] = { ParameterInfos[0]={} }
+            Entries[1] = { ParameterInfos[0]={} }
+            Entries[2] = { ParameterInfos[0]={} }
+            Entries[3] = { ParameterInfos[0]={} }
+            Entries[4] = { ParameterInfos[0]={} }
+        }
+        ScalarValues[0] = {}
+        VectorValues[0] = {}
+        TextureValues[0] = {}
+    }
+    ReferencedTextures[0] = {}
+}
+BlendMode = BLEND_Translucent (2)
+OpacityMaskClipValue = 0.333
+CollectedTextureParameters[1] =
+{
+    CollectedTextureParameters[0] =
+    {
+        Texture = Texture2D'/AT/Content/Art/UI/Xcmn_Material/Tex/Font_Eff.Font_Eff'
+        Name = Tex_Pattern
+        Group = None
+    }
+}
+CollectedScalarParameters[10] =
+{
+    CollectedScalarParameters[0] = { Value=0.85, Name=Sircle01_Scale, Group=None }
+    CollectedScalarParameters[1] = { Value=1, Name=Sircle00_Scale, Group=None }
+    CollectedScalarParameters[2] = { Value=80, Name=Sircle01_Blur, Group=None }
+    CollectedScalarParameters[3] = { Value=80, Name=Sircle00_Blur, Group=None }
+    CollectedScalarParameters[4] = { Value=90, Name=Gauge_Rotator, Group=None }
+    CollectedScalarParameters[5] = { Value=0.6, Name=Percent, Group=None }
+    CollectedScalarParameters[6] = { Value=0.5, Name=Gauge_State_Color, Group=None }
+    CollectedScalarParameters[7] = { Value=0.5, Name=Gauge_State, Group=None }
+    CollectedScalarParameters[8] = { Value=0.1, Name=Pattern_Time, Group=None }
+    CollectedScalarParameters[9] = { Value=-30, Name=Pattern_Rotator, Group=None }
+}
+CollectedVectorParameters[7] =
+{
+    CollectedVectorParameters[0] =
+    {
+        Value = { R=0.5, G=0.5, B=0, A=0 }
+        Name = Sircle01_Position
+        Group = None
+    }
+    CollectedVectorParameters[1] =
+    {
+        Value = { R=0.5, G=0.5, B=0, A=0 }
+        Name = Sircle00_Position
+        Group = None
+    }
+    CollectedVectorParameters[2] =
+    {
+        Value = { R=0.603828, G=0.005182, B=0.005182, A=1 }
+        Name = Color02
+        Group = None
+    }
+    CollectedVectorParameters[3] =
+    {
+        Value = { R=0.552012, G=0.323143, B=0.001821, A=1 }
+        Name = Color01
+        Group = None
+    }
+    CollectedVectorParameters[4] =
+    {
+        Value = { R=0.072272, G=0.450786, B=0.004391, A=1 }
+        Name = Color00
+        Group = None
+    }
+    CollectedVectorParameters[5] =
+    {
+        Value = { R=1, G=1, B=0.380208, A=1 }
+        Name = Color_Full_A
+        Group = None
+    }
+    CollectedVectorParameters[6] =
+    {
+        Value = { R=0.254152, G=0.234551, B=0.205079, A=1 }
+        Name = Color_None
+        Group = None
+    }
+}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

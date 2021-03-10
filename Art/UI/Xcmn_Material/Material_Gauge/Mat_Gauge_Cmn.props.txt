@@ -1,0 +1,93 @@
+TwoSided = false
+bDisableDepthTest = false
+bIsMasked = false
+ReferencedTextures[1] =
+{
+    ReferencedTextures[0] = Texture2D'/AT/Content/Art/UI/Xcmn_Material/Tex/Xcmn_Dmy.Xcmn_Dmy'
+}
+Expressions[17] =
+{
+    Expressions[2] = MaterialExpressionTextureSampleParameter2D'/AT/Content/Art/UI/Xcmn_Material/Material_Gauge/Mat_Gauge_Cmn.MaterialExpressionTextureSampleParameter2D_21'
+    Expressions[3] = MaterialExpressionVectorParameter'/AT/Content/Art/UI/Xcmn_Material/Material_Gauge/Mat_Gauge_Cmn.MaterialExpressionVectorParameter_24'
+    Expressions[4] = MaterialExpressionVectorParameter'/AT/Content/Art/UI/Xcmn_Material/Material_Gauge/Mat_Gauge_Cmn.MaterialExpressionVectorParameter_25'
+    Expressions[5] = MaterialExpressionScalarParameter'/AT/Content/Art/UI/Xcmn_Material/Material_Gauge/Mat_Gauge_Cmn.MaterialExpressionScalarParameter_0'
+    Expressions[6] = MaterialExpressionScalarParameter'/AT/Content/Art/UI/Xcmn_Material/Material_Gauge/Mat_Gauge_Cmn.MaterialExpressionScalarParameter_10'
+    Expressions[7] = MaterialExpressionScalarParameter'/AT/Content/Art/UI/Xcmn_Material/Material_Gauge/Mat_Gauge_Cmn.MaterialExpressionScalarParameter_1'
+    Expressions[8] = MaterialExpressionScalarParameter'/AT/Content/Art/UI/Xcmn_Material/Material_Gauge/Mat_Gauge_Cmn.MaterialExpressionScalarParameter_21'
+    Expressions[9] = MaterialExpressionScalarParameter'/AT/Content/Art/UI/Xcmn_Material/Material_Gauge/Mat_Gauge_Cmn.MaterialExpressionScalarParameter_22'
+    Expressions[11] = MaterialExpressionScalarParameter'/AT/Content/Art/UI/Xcmn_Material/Material_Gauge/Mat_Gauge_Cmn.MaterialExpressionScalarParameter_2'
+    Expressions[12] = MaterialExpressionVectorParameter'/AT/Content/Art/UI/Xcmn_Material/Material_Gauge/Mat_Gauge_Cmn.MaterialExpressionVectorParameter_1'
+    Expressions[13] = MaterialExpressionScalarParameter'/AT/Content/Art/UI/Xcmn_Material/Material_Gauge/Mat_Gauge_Cmn.MaterialExpressionScalarParameter_69'
+    Expressions[15] = MaterialExpressionScalarParameter'/AT/Content/Art/UI/Xcmn_Material/Material_Gauge/Mat_Gauge_Cmn.MaterialExpressionScalarParameter_80'
+    Expressions[16] = MaterialExpressionScalarParameter'/AT/Content/Art/UI/Xcmn_Material/Material_Gauge/Mat_Gauge_Cmn.MaterialExpressionScalarParameter_3'
+}
+CachedExpressionData =
+{
+    Parameters =
+    {
+        Entries[5] =
+        {
+            Entries[0] = { ParameterInfos[0]={} }
+            Entries[1] = { ParameterInfos[0]={} }
+            Entries[2] = { ParameterInfos[0]={} }
+            Entries[3] = { ParameterInfos[0]={} }
+            Entries[4] = { ParameterInfos[0]={} }
+        }
+        ScalarValues[0] = {}
+        VectorValues[0] = {}
+        TextureValues[0] = {}
+    }
+    ReferencedTextures[0] = {}
+}
+BlendMode = BLEND_Translucent (2)
+OpacityMaskClipValue = 0.333
+CollectedTextureParameters[1] =
+{
+    CollectedTextureParameters[0] =
+    {
+        Texture = Texture2D'/AT/Content/Art/UI/Xcmn_Material/Tex/Xcmn_Dmy.Xcmn_Dmy'
+        Name = Texture
+        Group = None
+    }
+}
+CollectedScalarParameters[9] =
+{
+    CollectedScalarParameters[0] = { Value=0.2, Name=Color_Alpha, Group=None }
+    CollectedScalarParameters[1] = { Value=0.5, Name=Percent, Group=None }
+    CollectedScalarParameters[2] = { Value=0, Name=Rotator_Base, Group=None }
+    CollectedScalarParameters[3] = { Value=1, Name=Gauge_Hight, Group=None }
+    CollectedScalarParameters[4] = { Value=0, Name=Gauge_Row, Group=None }
+    CollectedScalarParameters[5] = { Value=100, Name=Blur, Group=None }
+    CollectedScalarParameters[6] = { Value=90, Name=Grad_Angle, Group=None }
+    CollectedScalarParameters[7] = { Value=0, Name=Grad_Translation, Group=None }
+    CollectedScalarParameters[8] = { Value=1, Name=Grad_Blur, Group=None }
+}
+CollectedVectorParameters[3] =
+{
+    CollectedVectorParameters[0] =
+    {
+        Value = { R=1, G=0.879623, B=0.194618, A=1 }
+        Name = Color_SkinA
+        Group = None
+    }
+    CollectedVectorParameters[1] =
+    {
+        Value = { R=0.617207, G=0.376262, B=0.023153, A=1 }
+        Name = Color_SkinB
+        Group = None
+    }
+    CollectedVectorParameters[2] =
+    {
+        Value = { R=0.5, G=0.5, B=0, A=1 }
+        Name = Pivot
+        Group = None
+    }
+}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

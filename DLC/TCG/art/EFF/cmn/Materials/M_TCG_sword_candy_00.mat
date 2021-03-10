@@ -1,0 +1,7 @@
+Diffuse=T_skill_cpl028_sword_Diffuse_00
+Normal=T_skill_cpl028_sword_Normal_00
+Opacity=T_skill_cpl028_sword_Alpha_00
+Other[0]=T_skill_cpl028_sword_Diffuse_02
+Other[1]=T_skill_cpl028_sword_Diffuse_03
+Other[2]=T_skill_cpl028_sword_dummy_00
+Other[3]=T_skill_cpl028_sword_cubemap_00

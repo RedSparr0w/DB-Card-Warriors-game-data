@@ -1,0 +1,59 @@
+TwoSided = true
+bDisableDepthTest = false
+bIsMasked = false
+ReferencedTextures[1] =
+{
+    ReferencedTextures[0] = Texture2D'/AT/Content/Art/EFF/e/useful/Textures/T_useful_line_13_00_A.T_useful_line_13_00_A'
+}
+Expressions[6] =
+{
+    Expressions[3] = MaterialExpressionTextureSampleParameter2D'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_useful_simple_01_02.MaterialExpressionTextureSampleParameter2D_0'
+    Expressions[5] = MaterialExpressionVectorParameter'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_useful_simple_01_02.MaterialExpressionVectorParameter_1'
+}
+CachedExpressionData =
+{
+    Parameters =
+    {
+        Entries[5] =
+        {
+            Entries[0] = { ParameterInfos[0]={} }
+            Entries[1] = { ParameterInfos[0]={} }
+            Entries[2] = { ParameterInfos[0]={} }
+            Entries[3] = { ParameterInfos[0]={} }
+            Entries[4] = { ParameterInfos[0]={} }
+        }
+        ScalarValues[0] = {}
+        VectorValues[0] = {}
+        TextureValues[0] = {}
+    }
+    ReferencedTextures[0] = {}
+}
+BlendMode = BLEND_Translucent (2)
+OpacityMaskClipValue = 0.333
+CollectedTextureParameters[1] =
+{
+    CollectedTextureParameters[0] =
+    {
+        Texture = Texture2D'/AT/Content/Art/EFF/e/useful/Textures/T_useful_line_13_00_A.T_useful_line_13_00_A'
+        Name = tex1
+        Group = None
+    }
+}
+CollectedScalarParameters[0] = {}
+CollectedVectorParameters[1] =
+{
+    CollectedVectorParameters[0] =
+    {
+        Value = { R=0.911458, G=0.246584, B=0, A=0 }
+        Name = 03-02Color_White
+        Group = None
+    }
+}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

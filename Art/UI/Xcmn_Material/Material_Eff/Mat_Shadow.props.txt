@@ -1,0 +1,99 @@
+TwoSided = false
+bDisableDepthTest = false
+bIsMasked = false
+ReferencedTextures[1] =
+{
+    ReferencedTextures[0] = Texture2D'/AT/Content/Art/UI/Field_Talk_Win/Tex/Talk_Arrow.Talk_Arrow'
+}
+Expressions[23] =
+{
+    Expressions[3] = MaterialExpressionVectorParameter'/AT/Content/Art/UI/Xcmn_Material/Material_Eff/Mat_Shadow.MaterialExpressionVectorParameter_2'
+    Expressions[6] = MaterialExpressionScalarParameter'/AT/Content/Art/UI/Xcmn_Material/Material_Eff/Mat_Shadow.MaterialExpressionScalarParameter_0'
+    Expressions[9] = MaterialExpressionVectorParameter'/AT/Content/Art/UI/Xcmn_Material/Material_Eff/Mat_Shadow.MaterialExpressionVectorParameter_6'
+    Expressions[10] = MaterialExpressionVectorParameter'/AT/Content/Art/UI/Xcmn_Material/Material_Eff/Mat_Shadow.MaterialExpressionVectorParameter_18'
+    Expressions[11] = MaterialExpressionVectorParameter'/AT/Content/Art/UI/Xcmn_Material/Material_Eff/Mat_Shadow.MaterialExpressionVectorParameter_19'
+    Expressions[12] = MaterialExpressionScalarParameter'/AT/Content/Art/UI/Xcmn_Material/Material_Eff/Mat_Shadow.MaterialExpressionScalarParameter_5'
+    Expressions[14] = MaterialExpressionScalarParameter'/AT/Content/Art/UI/Xcmn_Material/Material_Eff/Mat_Shadow.MaterialExpressionScalarParameter_3'
+    Expressions[17] = MaterialExpressionTextureSampleParameter2D'/AT/Content/Art/UI/Xcmn_Material/Material_Eff/Mat_Shadow.MaterialExpressionTextureSampleParameter2D_1'
+    Expressions[18] = MaterialExpressionTextureSampleParameter2D'/AT/Content/Art/UI/Xcmn_Material/Material_Eff/Mat_Shadow.MaterialExpressionTextureSampleParameter2D_2'
+    Expressions[20] = MaterialExpressionScalarParameter'/AT/Content/Art/UI/Xcmn_Material/Material_Eff/Mat_Shadow.MaterialExpressionScalarParameter_1'
+    Expressions[22] = MaterialExpressionScalarParameter'/AT/Content/Art/UI/Xcmn_Material/Material_Eff/Mat_Shadow.MaterialExpressionScalarParameter_8'
+}
+CachedExpressionData =
+{
+    Parameters =
+    {
+        Entries[5] =
+        {
+            Entries[0] = { ParameterInfos[0]={} }
+            Entries[1] = { ParameterInfos[0]={} }
+            Entries[2] = { ParameterInfos[0]={} }
+            Entries[3] = { ParameterInfos[0]={} }
+            Entries[4] = { ParameterInfos[0]={} }
+        }
+        ScalarValues[0] = {}
+        VectorValues[0] = {}
+        TextureValues[0] = {}
+    }
+    ReferencedTextures[0] = {}
+}
+BlendMode = BLEND_Translucent (2)
+OpacityMaskClipValue = 0.333
+CollectedTextureParameters[2] =
+{
+    CollectedTextureParameters[0] =
+    {
+        Texture = Texture2D'/AT/Content/Art/UI/Field_Talk_Win/Tex/Talk_Arrow.Talk_Arrow'
+        Name = Texture
+        Group = None
+    }
+    CollectedTextureParameters[1] =
+    {
+        Texture = Texture2D'/AT/Content/Art/UI/Field_Talk_Win/Tex/Talk_Arrow.Talk_Arrow'
+        Name = Texture
+        Group = None
+    }
+}
+CollectedScalarParameters[5] =
+{
+    CollectedScalarParameters[0] = { Value=1, Name=Shadow_Alpha, Group=None }
+    CollectedScalarParameters[1] = { Value=0, Name=Grad_Rotator, Group=None }
+    CollectedScalarParameters[2] = { Value=-0.2, Name=Grad_Translation, Group=None }
+    CollectedScalarParameters[3] = { Value=0, Name=Tex_Color_Alpha, Group=None }
+    CollectedScalarParameters[4] = { Value=1, Name=Grad_Blur, Group=None }
+}
+CollectedVectorParameters[4] =
+{
+    CollectedVectorParameters[0] =
+    {
+        Value = { R=0.019382, G=0.016807, B=0.01096, A=1 }
+        Name = Shadow_Color
+        Group = None
+    }
+    CollectedVectorParameters[1] =
+    {
+        Value = { R=-0.07, G=-0.07, B=0, A=0 }
+        Name = Shadow_Position
+        Group = None
+    }
+    CollectedVectorParameters[2] =
+    {
+        Value = { R=0.019382, G=0.016807, B=0.01096, A=1 }
+        Name = Grad_Color_A
+        Group = None
+    }
+    CollectedVectorParameters[3] =
+    {
+        Value = { R=0.019382, G=0.016807, B=0.01096, A=1 }
+        Name = Grad_Color_B
+        Group = None
+    }
+}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

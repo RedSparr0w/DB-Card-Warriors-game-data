@@ -1,0 +1,7 @@
+Diffuse=Default_DiffuseTexture
+Normal=NormalTexture
+Opacity=Default_Alpha0Texture
+Other[0]=Default_DiffuseTexture02
+Other[1]=Default_DiffuseTexture04
+Other[2]=dummy
+Other[3]=gim_s04a_bike01_cubemap

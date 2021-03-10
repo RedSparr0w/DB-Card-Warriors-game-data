@@ -1,0 +1,26 @@
+Materials[1] =
+{
+    Materials[0] = MaterialInstanceConstant'/AT/Content/Art/EFF/e/cmn/Materials/Manage/MI_e_e_cmn_m0001.MI_e_e_cmn_m0001'
+}
+SourceModels[0] = {}
+StaticMaterials[1] =
+{
+    StaticMaterials[0] =
+    {
+        MaterialInterface = MaterialInstanceConstant'/AT/Content/Art/EFF/e/cmn/Materials/Manage/MI_e_e_cmn_m0001.MI_e_e_cmn_m0001'
+        MaterialSlotName = MI_e_e_cmn_m0001
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 302.657, 186.924, 186.896, 304.186 }
+        }
+    }
+}
+Sockets[0] = {}
+ExtendedBounds =
+{
+    Origin = { X=3.8147e-006, Y=0, Z=0 }
+    BoxExtent = { X=49.1308, Y=49.1308, Z=49.5566 }
+    SphereRadius = 49.5566
+}

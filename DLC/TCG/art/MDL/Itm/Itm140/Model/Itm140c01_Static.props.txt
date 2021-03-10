@@ -1,0 +1,74 @@
+Materials[5] =
+{
+    Materials[0] = MaterialInstanceConstant'/AT/Content/DLC/TCG/art/MDL/Itm/Itm140/Material/Itm140c01_body_Mt_inst.Itm140c01_body_Mt_inst'
+    Materials[1] = MaterialInstanceConstant'/AT/Content/DLC/TCG/art/MDL/Itm/Itm140/Material/Itm140c01_metal_Mt_inst.Itm140c01_metal_Mt_inst'
+    Materials[2] = MaterialInstanceConstant'/AT/Content/DLC/TCG/art/MDL/Itm/Itm140/Material/Itm140c01_disp_02_Inst1.Itm140c01_disp_02_Inst1'
+    Materials[3] = MaterialInstanceConstant'/AT/Content/DLC/TCG/art/MDL/Itm/Itm140/Material/Itm140c01_disp_02_Inst.Itm140c01_disp_02_Inst'
+    Materials[4] = MaterialInstanceConstant'/AT/Content/DLC/TCG/art/MDL/Itm/Itm140/Material/Itm140c01_disp_02_Inst2.Itm140c01_disp_02_Inst2'
+}
+SourceModels[0] = {}
+StaticMaterials[5] =
+{
+    StaticMaterials[0] =
+    {
+        MaterialInterface = MaterialInstanceConstant'/AT/Content/DLC/TCG/art/MDL/Itm/Itm140/Material/Itm140c01_body_Mt_inst.Itm140c01_body_Mt_inst'
+        MaterialSlotName = Itm140c01_00_body_mt_skin00
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 401.147, 689.61, 0, 0 }
+        }
+    }
+    StaticMaterials[1] =
+    {
+        MaterialInterface = MaterialInstanceConstant'/AT/Content/DLC/TCG/art/MDL/Itm/Itm140/Material/Itm140c01_metal_Mt_inst.Itm140c01_metal_Mt_inst'
+        MaterialSlotName = Itm140c01_01_metal_mt_skin01
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 389.061, 707.038, 0, 0 }
+        }
+    }
+    StaticMaterials[2] =
+    {
+        MaterialInterface = MaterialInstanceConstant'/AT/Content/DLC/TCG/art/MDL/Itm/Itm140/Material/Itm140c01_disp_02_Inst1.Itm140c01_disp_02_Inst1'
+        MaterialSlotName = Itm140c01_02_disp01_mt_skin02
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 80.8527, 677.432, 0, 0 }
+        }
+    }
+    StaticMaterials[3] =
+    {
+        MaterialInterface = MaterialInstanceConstant'/AT/Content/DLC/TCG/art/MDL/Itm/Itm140/Material/Itm140c01_disp_02_Inst.Itm140c01_disp_02_Inst'
+        MaterialSlotName = Itm140c01_03_disp02_mt_skin03
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 87.0652, 678.152, 0, 0 }
+        }
+    }
+    StaticMaterials[4] =
+    {
+        MaterialInterface = MaterialInstanceConstant'/AT/Content/DLC/TCG/art/MDL/Itm/Itm140/Material/Itm140c01_disp_02_Inst2.Itm140c01_disp_02_Inst2'
+        MaterialSlotName = Itm140c01_04_disp03_mt_skin04
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 137.082, 677.84, 0, 0 }
+        }
+    }
+}
+Sockets[0] = {}
+ExtendedBounds =
+{
+    Origin = { X=0, Y=-7.42605, Z=117.602 }
+    BoxExtent = { X=69.1151, Y=77.919, Z=117.602 }
+    SphereRadius = 140.55
+}

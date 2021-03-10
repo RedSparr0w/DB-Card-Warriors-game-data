@@ -1,0 +1,78 @@
+TwoSided = false
+bDisableDepthTest = false
+bIsMasked = false
+ReferencedTextures[2] =
+{
+    ReferencedTextures[0] = Texture2D'/AT/Content/DLC/TCG/art/UI/C_Card/Tex/C_Eff_Light.C_Eff_Light'
+    ReferencedTextures[1] = Texture2D'/AT/Content/DLC/TCG/art/UI/C_Card/Tex/C_Eff_Mask00.C_Eff_Mask00'
+}
+Expressions[24] =
+{
+    Expressions[0] = MaterialExpressionTextureSampleParameter2D'/AT/Content/DLC/TCG/art/UI/C_Xcmn_Material/Material/Mat_Mask_Transform3.MaterialExpressionTextureSampleParameter2D_2'
+    Expressions[1] = MaterialExpressionTextureSampleParameter2D'/AT/Content/DLC/TCG/art/UI/C_Xcmn_Material/Material/Mat_Mask_Transform3.MaterialExpressionTextureSampleParameter2D_0'
+    Expressions[2] = MaterialExpressionVectorParameter'/AT/Content/DLC/TCG/art/UI/C_Xcmn_Material/Material/Mat_Mask_Transform3.MaterialExpressionVectorParameter_0'
+    Expressions[17] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG/art/UI/C_Xcmn_Material/Material/Mat_Mask_Transform3.MaterialExpressionScalarParameter_0'
+    Expressions[21] = MaterialExpressionVectorParameter'/AT/Content/DLC/TCG/art/UI/C_Xcmn_Material/Material/Mat_Mask_Transform3.MaterialExpressionVectorParameter_1'
+}
+CachedExpressionData =
+{
+    Parameters =
+    {
+        Entries[5] =
+        {
+            Entries[0] = { ParameterInfos[0]={} }
+            Entries[1] = { ParameterInfos[0]={} }
+            Entries[2] = { ParameterInfos[0]={} }
+            Entries[3] = { ParameterInfos[0]={} }
+            Entries[4] = { ParameterInfos[0]={} }
+        }
+        ScalarValues[0] = {}
+        VectorValues[0] = {}
+        TextureValues[0] = {}
+    }
+    ReferencedTextures[0] = {}
+}
+BlendMode = BLEND_Translucent (2)
+OpacityMaskClipValue = 0.333
+CollectedTextureParameters[2] =
+{
+    CollectedTextureParameters[0] =
+    {
+        Texture = Texture2D'/AT/Content/DLC/TCG/art/UI/C_Card/Tex/C_Eff_Light.C_Eff_Light'
+        Name = Texture
+        Group = None
+    }
+    CollectedTextureParameters[1] =
+    {
+        Texture = Texture2D'/AT/Content/DLC/TCG/art/UI/C_Card/Tex/C_Eff_Mask00.C_Eff_Mask00'
+        Name = Mask_Texture
+        Group = None
+    }
+}
+CollectedScalarParameters[1] =
+{
+    CollectedScalarParameters[0] = { Value=-25, Name=Tex_Angle, Group=None }
+}
+CollectedVectorParameters[2] =
+{
+    CollectedVectorParameters[0] =
+    {
+        Value = { R=0, G=0, B=0, A=0 }
+        Name = Tex_Transform
+        Group = None
+    }
+    CollectedVectorParameters[1] =
+    {
+        Value = { R=0.5, G=0.5, B=0, A=1 }
+        Name = Tex_Pivot
+        Group = None
+    }
+}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

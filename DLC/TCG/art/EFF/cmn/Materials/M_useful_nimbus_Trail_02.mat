@@ -1,0 +1,7 @@
+Diffuse=T_cmn_trail_03_00_E
+Opacity=T_useful_grad_06_00_A
+Emissive=T_cmn_trail_03_00_E
+Other[0]=T_cmn_noise_10_00_N
+Other[1]=T_cmn_noise_06_00_A
+Other[2]=T_useful_noise_01_00_E
+Other[3]=T_useful_grad_14_00

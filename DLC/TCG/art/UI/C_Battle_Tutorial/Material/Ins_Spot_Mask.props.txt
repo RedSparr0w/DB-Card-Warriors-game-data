@@ -1,0 +1,70 @@
+Parent = Material3'/AT/Content/DLC/TCG/art/UI/C_Xcmn_Material/Material/Mat_Mask_Spot.Mat_Mask_Spot'
+ScalarParameterValues[1] =
+{
+    ScalarParameterValues[0] =
+    {
+        ParameterInfo = { Name=RefractionDepthBias }
+        ParameterValue = 0
+        ParameterName = None
+    }
+}
+TextureParameterValues[4] =
+{
+    TextureParameterValues[0] =
+    {
+        ParameterInfo = { Name=SpotType_A }
+        ParameterValue = Texture2D'/AT/Content/DLC/TCG/art/UI/C_Xcmn_Material/Tex/Spot_00.Spot_00'
+        ParameterName = None
+    }
+    TextureParameterValues[1] =
+    {
+        ParameterInfo = { Name=SpotType_B }
+        ParameterValue = Texture2D'/AT/Content/DLC/TCG/art/UI/C_Xcmn_Material/Tex/Spot_00.Spot_00'
+        ParameterName = None
+    }
+    TextureParameterValues[2] =
+    {
+        ParameterInfo = { Name=SpotType_C }
+        ParameterValue = Texture2D'/AT/Content/DLC/TCG/art/UI/C_Xcmn_Material/Tex/Spot_01.Spot_01'
+        ParameterName = None
+    }
+    TextureParameterValues[3] =
+    {
+        ParameterInfo = { Name=SpotType_D }
+        ParameterValue = Texture2D'/AT/Content/DLC/TCG/art/UI/C_Xcmn_Material/Tex/Spot_01.Spot_01'
+        ParameterName = None
+    }
+}
+VectorParameterValues[1] =
+{
+    VectorParameterValues[0] =
+    {
+        ParameterInfo = { Name=FadeColor }
+        ParameterValue = { R=1, G=1, B=1, A=1 }
+        ParameterName = None
+    }
+}
+BasePropertyOverrides =
+{
+    bOverride_BlendMode = false
+    BlendMode = BLEND_Translucent (2)
+    bOverride_TwoSided = false
+    TwoSided = false
+    bOverride_OpacityMaskClipValue = false
+    OpacityMaskClipValue = 0.3333
+}
+StaticParameters =
+{
+    StaticSwitchParameters[0] = {}
+    StaticComponentMaskParameters[0] = {}
+    TerrainLayerWeightParameters[0] = {}
+    MaterialLayersParameters[0] = {}
+}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

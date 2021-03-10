@@ -1,0 +1,79 @@
+TwoSided = true
+bDisableDepthTest = false
+bIsMasked = false
+ReferencedTextures[2] =
+{
+    ReferencedTextures[0] = Texture2D'/AT/Content/Art/EFF/e/useful/Textures/T_useful_wtr_02_00.T_useful_wtr_02_00'
+    ReferencedTextures[1] = Texture2D'/AT/Content/Art/EFF/e/useful/Textures/T_useful_smk_12_00_E.T_useful_smk_12_00_E'
+}
+Expressions[34] =
+{
+    Expressions[2] = MaterialExpressionTextureSampleParameter2D'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_CMN_Other_DeathSymbol_00.MaterialExpressionTextureSampleParameter2D_0'
+    Expressions[7] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_CMN_Other_DeathSymbol_00.MaterialExpressionScalarParameter_3'
+    Expressions[10] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_CMN_Other_DeathSymbol_00.MaterialExpressionScalarParameter_4'
+    Expressions[12] = MaterialExpressionVectorParameter'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_CMN_Other_DeathSymbol_00.MaterialExpressionVectorParameter_0'
+    Expressions[13] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_CMN_Other_DeathSymbol_00.MaterialExpressionTextureSample_0'
+    Expressions[19] = MaterialExpressionVectorParameter'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_CMN_Other_DeathSymbol_00.MaterialExpressionVectorParameter_1'
+    Expressions[23] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_CMN_Other_DeathSymbol_00.MaterialExpressionTextureSample_1'
+    Expressions[29] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_CMN_Other_DeathSymbol_00.MaterialExpressionScalarParameter_5'
+    Expressions[33] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_CMN_Other_DeathSymbol_00.MaterialExpressionScalarParameter_6'
+}
+CachedExpressionData =
+{
+    Parameters =
+    {
+        Entries[5] =
+        {
+            Entries[0] = { ParameterInfos[0]={} }
+            Entries[1] = { ParameterInfos[0]={} }
+            Entries[2] = { ParameterInfos[0]={} }
+            Entries[3] = { ParameterInfos[0]={} }
+            Entries[4] = { ParameterInfos[0]={} }
+        }
+        ScalarValues[0] = {}
+        VectorValues[0] = {}
+        TextureValues[0] = {}
+    }
+    ReferencedTextures[0] = {}
+}
+BlendMode = BLEND_Translucent (2)
+OpacityMaskClipValue = 0.333
+CollectedTextureParameters[1] =
+{
+    CollectedTextureParameters[0] =
+    {
+        Texture = Texture2D'/AT/Content/DLC/TCG/art/EFF/cmn/Textures/T_TCG_cmn_DeathSymbol_00.T_TCG_cmn_DeathSymbol_00'
+        Name = BaceTexture
+        Group = None
+    }
+}
+CollectedScalarParameters[4] =
+{
+    CollectedScalarParameters[0] = { Value=100, Name=multicolor, Group=None }
+    CollectedScalarParameters[1] = { Value=0.2, Name=outline, Group=None }
+    CollectedScalarParameters[2] = { Value=1.5, Name=power, Group=None }
+    CollectedScalarParameters[3] = { Value=0.5, Name=speed, Group=None }
+}
+CollectedVectorParameters[2] =
+{
+    CollectedVectorParameters[0] =
+    {
+        Value = { R=20, G=20, B=20, A=1 }
+        Name = OutColor
+        Group = None
+    }
+    CollectedVectorParameters[1] =
+    {
+        Value = { R=5, G=0.814087, B=0.565264, A=1 }
+        Name = None
+        Group = None
+    }
+}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

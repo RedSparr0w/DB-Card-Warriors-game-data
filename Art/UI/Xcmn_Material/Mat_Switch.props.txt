@@ -1,0 +1,67 @@
+TwoSided = false
+bDisableDepthTest = false
+bIsMasked = false
+ReferencedTextures[1] =
+{
+    ReferencedTextures[0] = Texture2D'/AT/Content/Art/UI/Num_S/Tex/Num_S00.Num_S00'
+}
+Expressions[16] =
+{
+    Expressions[0] = MaterialExpressionStaticSwitchParameter'/AT/Content/Art/UI/Xcmn_Material/Mat_Switch.MaterialExpressionStaticSwitchParameter_5'
+    Expressions[2] = MaterialExpressionStaticSwitchParameter'/AT/Content/Art/UI/Xcmn_Material/Mat_Switch.MaterialExpressionStaticSwitchParameter_1'
+    Expressions[4] = MaterialExpressionScalarParameter'/AT/Content/Art/UI/Xcmn_Material/Mat_Switch.MaterialExpressionScalarParameter_4'
+    Expressions[5] = MaterialExpressionScalarParameter'/AT/Content/Art/UI/Xcmn_Material/Mat_Switch.MaterialExpressionScalarParameter_5'
+    Expressions[6] = MaterialExpressionScalarParameter'/AT/Content/Art/UI/Xcmn_Material/Mat_Switch.MaterialExpressionScalarParameter_6'
+    Expressions[8] = MaterialExpressionVectorParameter'/AT/Content/Art/UI/Xcmn_Material/Mat_Switch.MaterialExpressionVectorParameter_1'
+    Expressions[9] = MaterialExpressionScalarParameter'/AT/Content/Art/UI/Xcmn_Material/Mat_Switch.MaterialExpressionScalarParameter_1'
+    Expressions[10] = MaterialExpressionScalarParameter'/AT/Content/Art/UI/Xcmn_Material/Mat_Switch.MaterialExpressionScalarParameter_9'
+    Expressions[14] = MaterialExpressionStaticSwitchParameter'/AT/Content/Art/UI/Xcmn_Material/Mat_Switch.MaterialExpressionStaticSwitchParameter_2'
+    Expressions[15] = MaterialExpressionScalarParameter'/AT/Content/Art/UI/Xcmn_Material/Mat_Switch.MaterialExpressionScalarParameter_2'
+}
+CachedExpressionData =
+{
+    Parameters =
+    {
+        Entries[5] =
+        {
+            Entries[0] = { ParameterInfos[0]={} }
+            Entries[1] = { ParameterInfos[0]={} }
+            Entries[2] = { ParameterInfos[0]={} }
+            Entries[3] = { ParameterInfos[0]={} }
+            Entries[4] = { ParameterInfos[0]={} }
+        }
+        ScalarValues[0] = {}
+        VectorValues[0] = {}
+        TextureValues[0] = {}
+    }
+    ReferencedTextures[0] = {}
+}
+BlendMode = BLEND_Translucent (2)
+OpacityMaskClipValue = 0.333
+CollectedTextureParameters[0] = {}
+CollectedScalarParameters[6] =
+{
+    CollectedScalarParameters[0] = { Value=2, Name=rows, Group=None }
+    CollectedScalarParameters[1] = { Value=5, Name=columns, Group=None }
+    CollectedScalarParameters[2] = { Value=0, Name=num, Group=None }
+    CollectedScalarParameters[3] = { Value=0, Name=Alpha, Group=None }
+    CollectedScalarParameters[4] = { Value=1, Name=Add_Alpha, Group=None }
+    CollectedScalarParameters[5] = { Value=0, Name=Gray_Contrast, Group=None }
+}
+CollectedVectorParameters[1] =
+{
+    CollectedVectorParameters[0] =
+    {
+        Value = { R=1, G=0, B=0.095677, A=1 }
+        Name = Color
+        Group = None
+    }
+}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

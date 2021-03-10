@@ -1,0 +1,9 @@
+Diffuse=Itm140c01_disp_di
+Normal=NormalTexture
+SpecPower=DefaultDiffuse
+Other[0]=Default_DiffuseTexture02
+Other[1]=Default_Alpha0Texture
+Other[2]=Default_DiffuseTexture
+Other[3]=Default_DiffuseTexture04
+Other[4]=dummy
+Other[5]=gim_s04a_bike01_cubemap

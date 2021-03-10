@@ -1,0 +1,63 @@
+TwoSided = true
+bDisableDepthTest = false
+bIsMasked = false
+ReferencedTextures[1] =
+{
+    ReferencedTextures[0] = Texture2D'/AT/Content/Art/EFF/e/useful/Textures/T_useful_ptc_01_00_A.T_useful_ptc_01_00_A'
+}
+Expressions[24] =
+{
+    Expressions[2] = MaterialExpressionTextureSampleParameter2D'/AT/Content/DLC/TCG/art/EFF/Demo/Materials/M_TCG_simple_01_00.MaterialExpressionTextureSampleParameter2D_0'
+    Expressions[9] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG/art/EFF/Demo/Materials/M_TCG_simple_01_00.MaterialExpressionScalarParameter_4'
+    Expressions[14] = MaterialExpressionStaticSwitchParameter'/AT/Content/DLC/TCG/art/EFF/Demo/Materials/M_TCG_simple_01_00.MaterialExpressionStaticSwitchParameter_0'
+    Expressions[16] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG/art/EFF/Demo/Materials/M_TCG_simple_01_00.MaterialExpressionScalarParameter_5'
+    Expressions[17] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG/art/EFF/Demo/Materials/M_TCG_simple_01_00.MaterialExpressionScalarParameter_6'
+    Expressions[20] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG/art/EFF/Demo/Materials/M_TCG_simple_01_00.MaterialExpressionScalarParameter_7'
+    Expressions[21] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG/art/EFF/Demo/Materials/M_TCG_simple_01_00.MaterialExpressionScalarParameter_8'
+}
+CachedExpressionData =
+{
+    Parameters =
+    {
+        Entries[5] =
+        {
+            Entries[0] = { ParameterInfos[0]={} }
+            Entries[1] = { ParameterInfos[0]={} }
+            Entries[2] = { ParameterInfos[0]={} }
+            Entries[3] = { ParameterInfos[0]={} }
+            Entries[4] = { ParameterInfos[0]={} }
+        }
+        ScalarValues[0] = {}
+        VectorValues[0] = {}
+        TextureValues[0] = {}
+    }
+    ReferencedTextures[0] = {}
+}
+BlendMode = BLEND_Additive (3)
+OpacityMaskClipValue = 0.333
+CollectedTextureParameters[1] =
+{
+    CollectedTextureParameters[0] =
+    {
+        Texture = Texture2D'/AT/Content/Art/EFF/e/useful/Textures/T_useful_ptc_01_00_A.T_useful_ptc_01_00_A'
+        Name = tex1
+        Group = None
+    }
+}
+CollectedScalarParameters[5] =
+{
+    CollectedScalarParameters[0] = { Value=0, Name=Alfa_Power, Group=None }
+    CollectedScalarParameters[1] = { Value=1, Name=Tiling_U, Group=None }
+    CollectedScalarParameters[2] = { Value=1, Name=Tiling_V, Group=None }
+    CollectedScalarParameters[3] = { Value=0, Name=Offset_U, Group=None }
+    CollectedScalarParameters[4] = { Value=0, Name=Offset_V, Group=None }
+}
+CollectedVectorParameters[0] = {}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

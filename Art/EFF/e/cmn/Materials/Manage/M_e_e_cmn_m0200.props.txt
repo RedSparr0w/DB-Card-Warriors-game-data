@@ -1,0 +1,259 @@
+TwoSided = true
+bDisableDepthTest = false
+bIsMasked = false
+ReferencedTextures[1] =
+{
+    ReferencedTextures[0] = Texture2D'/AT/Content/Art/EFF/e/cmn/Textures/T_cmn_1pixel_Alpha00.T_cmn_1pixel_Alpha00'
+}
+Expressions[120] =
+{
+    Expressions[0] = MaterialExpressionStaticSwitchParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionStaticSwitchParameter_7'
+    Expressions[3] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_45'
+    Expressions[9] = MaterialExpressionTextureSampleParameter2D'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionTextureSampleParameter2D_4'
+    Expressions[13] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_31'
+    Expressions[14] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_32'
+    Expressions[15] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_33'
+    Expressions[16] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_34'
+    Expressions[17] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_35'
+    Expressions[18] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_36'
+    Expressions[19] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_39'
+    Expressions[20] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_40'
+    Expressions[21] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_41'
+    Expressions[22] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_42'
+    Expressions[26] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_26'
+    Expressions[27] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_27'
+    Expressions[28] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_37'
+    Expressions[29] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_38'
+    Expressions[30] = MaterialExpressionStaticSwitchParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionStaticSwitchParameter_2'
+    Expressions[31] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_19'
+    Expressions[32] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_30'
+    Expressions[36] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_12'
+    Expressions[37] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_13'
+    Expressions[38] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_14'
+    Expressions[39] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_20'
+    Expressions[40] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_25'
+    Expressions[41] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_28'
+    Expressions[42] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_29'
+    Expressions[43] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_43'
+    Expressions[44] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_44'
+    Expressions[45] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_46'
+    Expressions[47] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_62'
+    Expressions[48] = MaterialExpressionStaticSwitchParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionStaticSwitchParameter_9'
+    Expressions[51] = MaterialExpressionStaticSwitchParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionStaticSwitchParameter_5'
+    Expressions[52] = MaterialExpressionStaticSwitchParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionStaticSwitchParameter_1'
+    Expressions[55] = MaterialExpressionVectorParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionVectorParameter_2'
+    Expressions[57] = MaterialExpressionVectorParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionVectorParameter_3'
+    Expressions[59] = MaterialExpressionVectorParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionVectorParameter_0'
+    Expressions[60] = MaterialExpressionStaticSwitchParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionStaticSwitchParameter_6'
+    Expressions[63] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_21'
+    Expressions[64] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_22'
+    Expressions[65] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_23'
+    Expressions[66] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_24'
+    Expressions[69] = MaterialExpressionTextureSample'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionTextureSample_1'
+    Expressions[70] = MaterialExpressionTextureSampleParameter2D'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionTextureSampleParameter2D_5'
+    Expressions[72] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_2'
+    Expressions[73] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_3'
+    Expressions[74] = MaterialExpressionTextureSampleParameter2D'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionTextureSampleParameter2D_2'
+    Expressions[75] = MaterialExpressionTextureSampleParameter2D'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionTextureSampleParameter2D_3'
+    Expressions[77] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_63'
+    Expressions[78] = MaterialExpressionStaticSwitchParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionStaticSwitchParameter_10'
+    Expressions[83] = MaterialExpressionStaticSwitchParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionStaticSwitchParameter_3'
+    Expressions[84] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_78'
+    Expressions[85] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_79'
+    Expressions[87] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_69'
+    Expressions[88] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_109'
+    Expressions[89] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_110'
+    Expressions[90] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_111'
+    Expressions[91] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_112'
+    Expressions[92] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_113'
+    Expressions[93] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_114'
+    Expressions[94] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_115'
+    Expressions[95] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_116'
+    Expressions[96] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_117'
+    Expressions[99] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_143'
+    Expressions[100] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_144'
+    Expressions[101] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_145'
+    Expressions[102] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_146'
+    Expressions[103] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_147'
+    Expressions[104] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_148'
+    Expressions[105] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_149'
+    Expressions[106] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_150'
+    Expressions[107] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_151'
+    Expressions[108] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_152'
+    Expressions[109] = MaterialExpressionTextureSampleParameter2D'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionTextureSampleParameter2D_16'
+    Expressions[110] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_153'
+    Expressions[113] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_9'
+    Expressions[117] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_8'
+    Expressions[119] = MaterialExpressionScalarParameter'/AT/Content/Art/EFF/e/cmn/Materials/Manage/M_e_e_cmn_m0200.MaterialExpressionScalarParameter_4'
+}
+CachedExpressionData =
+{
+    Parameters =
+    {
+        Entries[5] =
+        {
+            Entries[0] = { ParameterInfos[0]={} }
+            Entries[1] = { ParameterInfos[0]={} }
+            Entries[2] = { ParameterInfos[0]={} }
+            Entries[3] = { ParameterInfos[0]={} }
+            Entries[4] = { ParameterInfos[0]={} }
+        }
+        ScalarValues[0] = {}
+        VectorValues[0] = {}
+        TextureValues[0] = {}
+    }
+    ReferencedTextures[0] = {}
+}
+BlendMode = BLEND_Translucent (2)
+OpacityMaskClipValue = 0.333
+CollectedTextureParameters[5] =
+{
+    CollectedTextureParameters[0] =
+    {
+        Texture = Texture2D'/AT/Content/Art/EFF/e/cmn/Textures/T_cmn_1pixel_RGB00.T_cmn_1pixel_RGB00'
+        Name = Color_Texture1
+        Group = 00------Texture
+    }
+    CollectedTextureParameters[1] =
+    {
+        Texture = Texture2D'/AT/Content/Art/EFF/e/cmn/Textures/T_cmn_1pixel_Alpha00.T_cmn_1pixel_Alpha00'
+        Name = Opacity_Texture1
+        Group = 00------Texture
+    }
+    CollectedTextureParameters[2] =
+    {
+        Texture = Texture2D'/AT/Content/Art/EFF/e/cmn/Textures/T_cmn_1pixel_RGB00.T_cmn_1pixel_RGB00'
+        Name = Color_Texture2
+        Group = 00------Texture
+    }
+    CollectedTextureParameters[3] =
+    {
+        Texture = Texture2D'/AT/Content/Art/EFF/e/cmn/Textures/T_cmn_1pixel_Alpha00.T_cmn_1pixel_Alpha00'
+        Name = Opacity_Texture2
+        Group = 00------Texture
+    }
+    CollectedTextureParameters[4] =
+    {
+        Texture = Texture2D'/AT/Content/Art/EFF/e/cmn/Textures/T_cmn_1pixel_RGB00.T_cmn_1pixel_RGB00'
+        Name = Color_Projection1
+        Group = 06------Projection1_Texture
+    }
+}
+CollectedScalarParameters[61] =
+{
+    CollectedScalarParameters[0] = { Value=0, Name=Outline Power, Group=None }
+    CollectedScalarParameters[1] = { Value=1, Name=Scale_U_Texture1, Group=None }
+    CollectedScalarParameters[2] = { Value=1, Name=Scale_V_Texture1, Group=None }
+    CollectedScalarParameters[3] = { Value=0, Name=Offset_V_Texture1, Group=None }
+    CollectedScalarParameters[4] = { Value=0, Name=Offset_U_Texture1, Group=None }
+    CollectedScalarParameters[5] = { Value=0, Name=Speed_V_Texture1, Group=None }
+    CollectedScalarParameters[6] = { Value=0, Name=Speed_U_Texture1, Group=None }
+    CollectedScalarParameters[7] = { Value=0, Name=RotSpeed_Texture1, Group=None }
+    CollectedScalarParameters[8] = { Value=0, Name=RotAngle_Texture1, Group=None }
+    CollectedScalarParameters[9] = { Value=0.5, Name=RotCenter_U_Texture1, Group=None }
+    CollectedScalarParameters[10] = { Value=0.5, Name=RotCenter_V_Texture1, Group=None }
+    CollectedScalarParameters[11] = { Value=1, Name=11-03FresnelPower, Group=None }
+    CollectedScalarParameters[12] = { Value=5, Name=11-01Exponenth, Group=None }
+    CollectedScalarParameters[13] =
+    {
+        Value = 0.04
+        Name = 11-02BaseReflectFraction
+        Group = None
+    }
+    CollectedScalarParameters[14] = { Value=0, Name=11-04Reversal, Group=None }
+    CollectedScalarParameters[15] = { Value=0, Name=VertexOpacity, Group=None }
+    CollectedScalarParameters[16] = { Value=0, Name=VertexColor, Group=None }
+    CollectedScalarParameters[17] = { Value=1, Name=Scale_U_Texture2, Group=None }
+    CollectedScalarParameters[18] = { Value=1, Name=Scale_V_Texture2, Group=None }
+    CollectedScalarParameters[19] = { Value=0, Name=Offset_V_Texture2, Group=None }
+    CollectedScalarParameters[20] = { Value=0, Name=Offset_U_Texture2, Group=None }
+    CollectedScalarParameters[21] = { Value=0, Name=Speed_V_Texture2, Group=None }
+    CollectedScalarParameters[22] = { Value=0, Name=Speed_U_Texture2, Group=None }
+    CollectedScalarParameters[23] = { Value=0, Name=RotSpeed_Texture2, Group=None }
+    CollectedScalarParameters[24] = { Value=0, Name=RotAngle_Texture2, Group=None }
+    CollectedScalarParameters[25] = { Value=0.5, Name=RotCenter_U_Texture2, Group=None }
+    CollectedScalarParameters[26] = { Value=0.5, Name=RotCenter_V_Texture2, Group=None }
+    CollectedScalarParameters[27] = { Value=0, Name=BlendTexture_Color, Group=None }
+    CollectedScalarParameters[28] = { Value=1, Name=12-03FresnelPower, Group=None }
+    CollectedScalarParameters[29] = { Value=5, Name=12-01Exponenth, Group=None }
+    CollectedScalarParameters[30] =
+    {
+        Value = 0.04
+        Name = 12-02BaseReflectFraction
+        Group = None
+    }
+    CollectedScalarParameters[31] = { Value=1, Name=12-04Reversal, Group=None }
+    CollectedScalarParameters[32] = { Value=1, Name=OpacityTex1_Power, Group=None }
+    CollectedScalarParameters[33] = { Value=0, Name=OpacityTex1_Contrast, Group=None }
+    CollectedScalarParameters[34] = { Value=1, Name=BlendTexture_Opacity, Group=None }
+    CollectedScalarParameters[35] = { Value=0, Name=CameraFadeRegion, Group=None }
+    CollectedScalarParameters[36] = { Value=0, Name=CameraFadeDistance, Group=None }
+    CollectedScalarParameters[37] = { Value=100, Name=FadeDistance, Group=None }
+    CollectedScalarParameters[38] = { Value=1, Name=WPO-Scale_U, Group=None }
+    CollectedScalarParameters[39] = { Value=1, Name=WPO-Scale_V, Group=None }
+    CollectedScalarParameters[40] = { Value=0, Name=WPO-RotSpeed, Group=None }
+    CollectedScalarParameters[41] = { Value=0, Name=WorldPositionOffset, Group=None }
+    CollectedScalarParameters[42] = { Value=0, Name=WPO-Offset_U, Group=None }
+    CollectedScalarParameters[43] = { Value=0, Name=WPO-Offset_V, Group=None }
+    CollectedScalarParameters[44] = { Value=0, Name=WPO-Speed_U, Group=None }
+    CollectedScalarParameters[45] = { Value=0, Name=WPO-Speed_V, Group=None }
+    CollectedScalarParameters[46] =
+    {
+        Value = 0
+        Name = WorldPositionOffset_Move
+        Group = None
+    }
+    CollectedScalarParameters[47] = { Value=1, Name=Scale_U_Projection1, Group=None }
+    CollectedScalarParameters[48] = { Value=1, Name=Scale_V_Projection1, Group=None }
+    CollectedScalarParameters[49] = { Value=0, Name=Offset_V_Projection1, Group=None }
+    CollectedScalarParameters[50] = { Value=0, Name=Offset_U_Projection1, Group=None }
+    CollectedScalarParameters[51] = { Value=0, Name=Speed_V_Projection1, Group=None }
+    CollectedScalarParameters[52] = { Value=0, Name=Speed_U_Projection1, Group=None }
+    CollectedScalarParameters[53] = { Value=0, Name=RotSpeed_Projection1, Group=None }
+    CollectedScalarParameters[54] = { Value=0, Name=RotAngle_Projection1, Group=None }
+    CollectedScalarParameters[55] =
+    {
+        Value = 0.5
+        Name = RotCenter_U_Projection1
+        Group = None
+    }
+    CollectedScalarParameters[56] =
+    {
+        Value = 0.5
+        Name = RotCenter_V_Projection1
+        Group = None
+    }
+    CollectedScalarParameters[57] = { Value=1, Name=Projection1_Opacity, Group=None }
+    CollectedScalarParameters[58] = { Value=1, Name=OpacityB, Group=None }
+    CollectedScalarParameters[59] = { Value=1, Name=OpacityA, Group=None }
+    CollectedScalarParameters[60] = { Value=0, Name=11-05CheapContrast, Group=None }
+}
+CollectedVectorParameters[3] =
+{
+    CollectedVectorParameters[0] =
+    {
+        Value = { R=1, G=1, B=1, A=1 }
+        Name = ColorA
+        Group = None
+    }
+    CollectedVectorParameters[1] =
+    {
+        Value = { R=1, G=1, B=1, A=1 }
+        Name = ColorB
+        Group = None
+    }
+    CollectedVectorParameters[2] =
+    {
+        Value = { R=1, G=1, B=1, A=1 }
+        Name = ColorFolloff
+        Group = None
+    }
+}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

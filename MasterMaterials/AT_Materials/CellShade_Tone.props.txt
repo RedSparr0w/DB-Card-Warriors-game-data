@@ -1,0 +1,267 @@
+TwoSided = false
+bDisableDepthTest = false
+bIsMasked = false
+ReferencedTextures[7] =
+{
+    ReferencedTextures[0] = Texture2D'/AT/Content/MasterMaterials/AT_Materials/Texture/Default_Alpha0Texture.Default_Alpha0Texture'
+    ReferencedTextures[1] = Texture2D'/AT/Content/MasterMaterials/AT_Materials/Texture/Default_DiffuseTexture.Default_DiffuseTexture'
+    ReferencedTextures[2] = Texture2D'/AT/Content/MasterMaterials/AT_Materials/Texture/Default_DiffuseTexture02.Default_DiffuseTexture02'
+    ReferencedTextures[3] = Texture2D'/AT/Content/MasterMaterials/AT_Materials/Texture/Default_DiffuseTexture04.Default_DiffuseTexture04'
+    ReferencedTextures[4] = Texture2D'/AT/Content/MasterMaterials/AT_Materials/Texture/dummy.dummy'
+    ReferencedTextures[5] = Texture2D'/AT/Content/MasterMaterials/AT_Materials/Texture/NormalTexture.NormalTexture'
+    ReferencedTextures[6] = TextureCube4'/AT/Content/MasterMaterials/AT_Materials/Texture/gim_s04a_bike01_cubemap.gim_s04a_bike01_cubemap'
+}
+Expressions[205] =
+{
+    Expressions[3] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionScalarParameter_18'
+    Expressions[11] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionScalarParameter_35'
+    Expressions[14] = MaterialExpressionStaticSwitchParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionStaticSwitchParameter_3'
+    Expressions[15] = MaterialExpressionStaticSwitchParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionStaticSwitchParameter_5'
+    Expressions[17] = MaterialExpressionStaticSwitchParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionStaticSwitchParameter_16'
+    Expressions[19] = MaterialExpressionVectorParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionVectorParameter_12'
+    Expressions[20] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionScalarParameter_7'
+    Expressions[21] = MaterialExpressionVectorParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionVectorParameter_3'
+    Expressions[22] = MaterialExpressionVectorParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionVectorParameter_5'
+    Expressions[25] = MaterialExpressionTextureSampleParameter2D'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionTextureSampleParameter2D_10'
+    Expressions[27] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionScalarParameter_2'
+    Expressions[28] = MaterialExpressionTextureSampleParameter2D'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionTextureSampleParameter2D_8'
+    Expressions[31] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionScalarParameter_13'
+    Expressions[32] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionScalarParameter_14'
+    Expressions[33] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionScalarParameter_15'
+    Expressions[34] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionScalarParameter_16'
+    Expressions[35] = MaterialExpressionStaticSwitchParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionStaticSwitchParameter_23'
+    Expressions[36] = MaterialExpressionStaticSwitchParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionStaticSwitchParameter_18'
+    Expressions[39] = MaterialExpressionTextureSampleParameter2D'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionTextureSampleParameter2D_4'
+    Expressions[40] = MaterialExpressionTextureSampleParameter2D'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionTextureSampleParameter2D_27'
+    Expressions[41] = MaterialExpressionTextureSampleParameter2D'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionTextureSampleParameter2D_1'
+    Expressions[44] = MaterialExpressionStaticSwitchParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionStaticSwitchParameter_21'
+    Expressions[46] = MaterialExpressionTextureSampleParameter2D'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionTextureSampleParameter2D_31'
+    Expressions[47] = MaterialExpressionStaticSwitchParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionStaticSwitchParameter_1'
+    Expressions[48] = MaterialExpressionStaticSwitchParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionStaticSwitchParameter_30'
+    Expressions[50] = MaterialExpressionStaticSwitchParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionStaticSwitchParameter_38'
+    Expressions[51] = MaterialExpressionStaticSwitchParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionStaticSwitchParameter_44'
+    Expressions[52] = MaterialExpressionStaticSwitchParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionStaticSwitchParameter_42'
+    Expressions[53] = MaterialExpressionStaticSwitchParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionStaticSwitchParameter_50'
+    Expressions[54] = MaterialExpressionStaticSwitchParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionStaticSwitchParameter_53'
+    Expressions[55] = MaterialExpressionVectorParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionVectorParameter_59'
+    Expressions[57] = MaterialExpressionStaticSwitchParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionStaticSwitchParameter_10'
+    Expressions[59] = MaterialExpressionStaticSwitchParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionStaticSwitchParameter_2'
+    Expressions[60] = MaterialExpressionStaticSwitchParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionStaticSwitchParameter_4'
+    Expressions[62] = MaterialExpressionTextureSampleParameter2D'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionTextureSampleParameter2D_2'
+    Expressions[64] = MaterialExpressionStaticSwitchParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionStaticSwitchParameter_14'
+    Expressions[66] = MaterialExpressionStaticSwitchParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionStaticSwitchParameter_12'
+    Expressions[68] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionScalarParameter_3'
+    Expressions[70] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionScalarParameter_4'
+    Expressions[72] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionScalarParameter_5'
+    Expressions[80] = MaterialExpressionStaticSwitchParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionStaticSwitchParameter_11'
+    Expressions[81] = MaterialExpressionTextureSampleParameter2D'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionTextureSampleParameter2D_3'
+    Expressions[83] = MaterialExpressionTextureSampleParameter2D'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionTextureSampleParameter2D_5'
+    Expressions[84] = MaterialExpressionStaticSwitchParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionStaticSwitchParameter_24'
+    Expressions[85] = MaterialExpressionTextureSampleParameter2D'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionTextureSampleParameter2D_22'
+    Expressions[87] = MaterialExpressionStaticSwitchParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionStaticSwitchParameter_6'
+    Expressions[88] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionScalarParameter_38'
+    Expressions[97] = MaterialExpressionStaticSwitchParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionStaticSwitchParameter_8'
+    Expressions[98] = MaterialExpressionStaticSwitchParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionStaticSwitchParameter_9'
+    Expressions[102] = MaterialExpressionStaticSwitchParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionStaticSwitchParameter_13'
+    Expressions[103] = MaterialExpressionStaticSwitchParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionStaticSwitchParameter_15'
+    Expressions[104] = MaterialExpressionStaticSwitchParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionStaticSwitchParameter_17'
+    Expressions[105] = MaterialExpressionTextureSampleParameter2D'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionTextureSampleParameter2D_9'
+    Expressions[129] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionScalarParameter_8'
+    Expressions[134] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionScalarParameter_9'
+    Expressions[135] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionScalarParameter_10'
+    Expressions[136] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionScalarParameter_1'
+    Expressions[140] = MaterialExpressionVectorParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionVectorParameter_1'
+    Expressions[145] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionScalarParameter_11'
+    Expressions[149] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionScalarParameter_6'
+    Expressions[150] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionScalarParameter_12'
+    Expressions[156] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionScalarParameter_17'
+    Expressions[157] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionScalarParameter_19'
+    Expressions[160] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionScalarParameter_20'
+    Expressions[162] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionScalarParameter_21'
+    Expressions[165] = MaterialExpressionVectorParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionVectorParameter_0'
+    Expressions[170] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionScalarParameter_22'
+    Expressions[185] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionScalarParameter_23'
+    Expressions[186] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionScalarParameter_28'
+    Expressions[189] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionScalarParameter_34'
+    Expressions[199] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionScalarParameter_0'
+    Expressions[201] = MaterialExpressionStaticSwitchParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionStaticSwitchParameter_0'
+    Expressions[203] = MaterialExpressionTextureSampleParameter2D'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone.MaterialExpressionTextureSampleParameter2D_0'
+}
+CachedExpressionData =
+{
+    Parameters =
+    {
+        Entries[5] =
+        {
+            Entries[0] = { ParameterInfos[0]={} }
+            Entries[1] = { ParameterInfos[0]={} }
+            Entries[2] = { ParameterInfos[0]={} }
+            Entries[3] = { ParameterInfos[0]={} }
+            Entries[4] = { ParameterInfos[0]={} }
+        }
+        ScalarValues[0] = {}
+        VectorValues[0] = {}
+        TextureValues[0] = {}
+    }
+    ReferencedTextures[0] = {}
+}
+BlendMode = BLEND_Masked (1)
+OpacityMaskClipValue = 0.333
+CollectedTextureParameters[12] =
+{
+    CollectedTextureParameters[0] =
+    {
+        Texture = Texture2D'/AT/Content/MasterMaterials/AT_Materials/Texture/NormalTexture.NormalTexture'
+        Name = Normal_Texture
+        Group = Normal
+    }
+    CollectedTextureParameters[1] =
+    {
+        Texture = Texture2D'/AT/Content/MasterMaterials/AT_Materials/Texture/Default_DiffuseTexture.Default_DiffuseTexture'
+        Name = InsideLine_Texture
+        Group = LineTexture
+    }
+    CollectedTextureParameters[2] =
+    {
+        Texture = Texture2D'/AT/Content/MasterMaterials/AT_Materials/Texture/dummy.dummy'
+        Name = ColorMask
+        Group = 01BaseMask
+    }
+    CollectedTextureParameters[3] =
+    {
+        Texture = Texture2D'/AT/Content/MasterMaterials/AT_Materials/Texture/dummy.dummy'
+        Name = ambient_texture
+        Group = Color
+    }
+    CollectedTextureParameters[4] =
+    {
+        Texture = Texture2D'/AT/Content/MasterMaterials/AT_Materials/Texture/dummy.dummy'
+        Name = specular_texture
+        Group = Color
+    }
+    CollectedTextureParameters[5] =
+    {
+        Texture = Texture2D'/AT/Content/MasterMaterials/AT_Materials/Texture/dummy.dummy'
+        Name = diffuse_texture
+        Group = Color
+    }
+    CollectedTextureParameters[6] =
+    {
+        Texture = Texture2D'/AT/Content/MasterMaterials/AT_Materials/Texture/Default_Alpha0Texture.Default_Alpha0Texture'
+        Name = Unique_texture
+        Group = Unique
+    }
+    CollectedTextureParameters[7] =
+    {
+        Texture = Texture2D'/AT/Content/MasterMaterials/AT_Materials/Texture/Default_DiffuseTexture04.Default_DiffuseTexture04'
+        Name = AmbientOcclusion_Texture
+        Group = Shade
+    }
+    CollectedTextureParameters[8] =
+    {
+        Texture = Texture2D'/AT/Content/MasterMaterials/AT_Materials/Texture/Default_DiffuseTexture.Default_DiffuseTexture'
+        Name = outline_texture
+        Group = Outline
+    }
+    CollectedTextureParameters[9] =
+    {
+        Texture = Texture2D'/AT/Content/MasterMaterials/AT_Materials/Texture/Default_DiffuseTexture02.Default_DiffuseTexture02'
+        Name = InLineDesicion_Texture
+        Group = Outline
+    }
+    CollectedTextureParameters[10] =
+    {
+        Texture = Texture2D'/AT/Content/MasterMaterials/AT_Materials/Texture/Default_DiffuseTexture02.Default_DiffuseTexture02'
+        Name = LightMap_Texture
+        Group = LightMapTexture
+    }
+    CollectedTextureParameters[11] =
+    {
+        Texture = Texture2D'/AT/Content/MasterMaterials/AT_Materials/Texture/Default_DiffuseTexture.Default_DiffuseTexture'
+        Name = InsideLine_Texture
+        Group = LineTexture
+    }
+}
+CollectedScalarParameters[28] =
+{
+    CollectedScalarParameters[0] = { Value=0, Name=AffectedLight, Group=None }
+    CollectedScalarParameters[1] = { Value=0, Name=BloomIntensity, Group=None }
+    CollectedScalarParameters[2] = { Value=0, Name=TonePattern, Group=None }
+    CollectedScalarParameters[3] = { Value=1, Name=NomalPower, Group=None }
+    CollectedScalarParameters[4] = { Value=0, Name=MipLevel0, Group=None }
+    CollectedScalarParameters[5] = { Value=2000, Name=MipLevel1, Group=None }
+    CollectedScalarParameters[6] = { Value=4000, Name=MipLevel2, Group=None }
+    CollectedScalarParameters[7] = { Value=8000, Name=MipLevel3, Group=None }
+    CollectedScalarParameters[8] = { Value=0.5, Name=UniqueAmbient, Group=None }
+    CollectedScalarParameters[9] = { Value=1, Name=AOMult, Group=None }
+    CollectedScalarParameters[10] = { Value=1, Name=AOPower, Group=None }
+    CollectedScalarParameters[11] = { Value=1, Name=OutlineMask, Group=None }
+    CollectedScalarParameters[12] = { Value=0, Name=LineTex_Power, Group=None }
+    CollectedScalarParameters[13] = { Value=0, Name=ShadowPower, Group=None }
+    CollectedScalarParameters[14] = { Value=0.5, Name=OutlineID, Group=None }
+    CollectedScalarParameters[15] = { Value=1, Name=RimPower_Shadow, Group=None }
+    CollectedScalarParameters[16] = { Value=0, Name=LightDirectionPower, Group=None }
+    CollectedScalarParameters[17] =
+    {
+        Value = 0
+        Name = LightDirection_Vertical
+        Group = None
+    }
+    CollectedScalarParameters[18] = { Value=1, Name=LightDirection_Side, Group=None }
+    CollectedScalarParameters[19] = { Value=0, Name=RimPower_Light, Group=None }
+    CollectedScalarParameters[20] = { Value=0, Name=Shadow2Power, Group=None }
+    CollectedScalarParameters[21] = { Value=1, Name=Opacity Threshold, Group=None }
+    CollectedScalarParameters[22] = { Value=1, Name=Diffuse_Power, Group=None }
+    CollectedScalarParameters[23] = { Value=0, Name=BloomIntensity_Hight, Group=None }
+    CollectedScalarParameters[24] = { Value=0, Name=AmbientOverlay-Mult, Group=None }
+    CollectedScalarParameters[25] = { Value=0.8, Name=CastShadowPower, Group=None }
+    CollectedScalarParameters[26] = { Value=1, Name=CastShadowParamPower, Group=None }
+    CollectedScalarParameters[27] = { Value=0, Name=OutlineColorType, Group=None }
+}
+CollectedVectorParameters[6] =
+{
+    CollectedVectorParameters[0] =
+    {
+        Value = { R=1, G=1, B=1, A=1 }
+        Name = Specular
+        Group = None
+    }
+    CollectedVectorParameters[1] =
+    {
+        Value = { R=0.625, G=0.478249, B=0.054878, A=1 }
+        Name = Diffuse
+        Group = None
+    }
+    CollectedVectorParameters[2] =
+    {
+        Value = { R=0.275, G=0.130313, B=0.030111, A=1 }
+        Name = AmbientShadow
+        Group = None
+    }
+    CollectedVectorParameters[3] =
+    {
+        Value = { R=0.5, G=0.5, B=0.5, A=1 }
+        Name = AmbientDFctor
+        Group = None
+    }
+    CollectedVectorParameters[4] =
+    {
+        Value = { R=0.3, G=0.1, B=0, A=1 }
+        Name = AmbientDFctor2
+        Group = None
+    }
+    CollectedVectorParameters[5] =
+    {
+        Value = { R=0.3, G=0.3, B=0.3, A=1 }
+        Name = HightLightColor
+        Group = None
+    }
+}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

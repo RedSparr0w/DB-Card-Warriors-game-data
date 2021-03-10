@@ -1,0 +1,64 @@
+TwoSided = false
+bDisableDepthTest = false
+bIsMasked = false
+ReferencedTextures[4] =
+{
+    ReferencedTextures[0] = Texture2D'/AT/Content/Art/EFF/e/useful/Textures/T_useful_wtr_02_00.T_useful_wtr_02_00'
+    ReferencedTextures[1] = Texture2D'/AT/Content/Art/EFF/e/useful/Textures/T_useful_smk_12_00_E.T_useful_smk_12_00_E'
+    ReferencedTextures[2] = Texture2D'/AT/Content/Art/EFF/e/useful/Textures/T_useful_grad_07_00_A.T_useful_grad_07_00_A'
+    ReferencedTextures[3] = Texture2D'/AT/Content/Art/EFF/e/useful/Textures/T_useful_grad_04_00_A.T_useful_grad_04_00_A'
+}
+Expressions[55] =
+{
+    Expressions[3] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_CMN_Other_DeathSpel_00.MaterialExpressionTextureSample_3'
+    Expressions[4] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_CMN_Other_DeathSpel_00.MaterialExpressionTextureSample_4'
+    Expressions[13] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_CMN_Other_DeathSpel_00.MaterialExpressionTextureSample_0'
+    Expressions[15] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_CMN_Other_DeathSpel_00.MaterialExpressionScalarParameter_0'
+    Expressions[18] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_CMN_Other_DeathSpel_00.MaterialExpressionScalarParameter_1'
+    Expressions[19] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_CMN_Other_DeathSpel_00.MaterialExpressionTextureSample_1'
+    Expressions[26] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_CMN_Other_DeathSpel_00.MaterialExpressionScalarParameter_2'
+    Expressions[27] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_CMN_Other_DeathSpel_00.MaterialExpressionScalarParameter_3'
+    Expressions[31] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_CMN_Other_DeathSpel_00.MaterialExpressionTextureSample_5'
+    Expressions[40] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_CMN_Other_DeathSpel_00.MaterialExpressionTextureSample_6'
+    Expressions[49] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_CMN_Other_DeathSpel_00.MaterialExpressionScalarParameter_4'
+    Expressions[54] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_CMN_Other_DeathSpel_00.MaterialExpressionScalarParameter_5'
+}
+CachedExpressionData =
+{
+    Parameters =
+    {
+        Entries[5] =
+        {
+            Entries[0] = { ParameterInfos[0]={} }
+            Entries[1] = { ParameterInfos[0]={} }
+            Entries[2] = { ParameterInfos[0]={} }
+            Entries[3] = { ParameterInfos[0]={} }
+            Entries[4] = { ParameterInfos[0]={} }
+        }
+        ScalarValues[0] = {}
+        VectorValues[0] = {}
+        TextureValues[0] = {}
+    }
+    ReferencedTextures[0] = {}
+}
+BlendMode = BLEND_Translucent (2)
+OpacityMaskClipValue = 0.333
+CollectedTextureParameters[0] = {}
+CollectedScalarParameters[6] =
+{
+    CollectedScalarParameters[0] = { Value=5, Name=speed, Group=None }
+    CollectedScalarParameters[1] = { Value=0.3, Name=dist, Group=None }
+    CollectedScalarParameters[2] = { Value=1, Name=U_sacle, Group=None }
+    CollectedScalarParameters[3] = { Value=1, Name=V_sacle, Group=None }
+    CollectedScalarParameters[4] = { Value=0.3, Name=power, Group=None }
+    CollectedScalarParameters[5] = { Value=0, Name=Alpha_V_offset, Group=None }
+}
+CollectedVectorParameters[0] = {}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

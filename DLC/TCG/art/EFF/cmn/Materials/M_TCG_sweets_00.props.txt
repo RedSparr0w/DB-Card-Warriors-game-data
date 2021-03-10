@@ -1,0 +1,68 @@
+TwoSided = true
+bDisableDepthTest = false
+bIsMasked = false
+ReferencedTextures[2] =
+{
+    ReferencedTextures[0] = Texture2D'/AT/Content/DLC/TCG/art/EFF/cmn/Textures/T_TCG_saturday_02.T_TCG_saturday_02'
+    ReferencedTextures[1] = Texture2D'/AT/Content/DLC/TCG/art/EFF/cmn/Textures/T_TCG_Noise_01_00.T_TCG_Noise_01_00'
+}
+Expressions[22] =
+{
+    Expressions[10] = MaterialExpressionTextureSampleParameter2D'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_sweets_00.MaterialExpressionTextureSampleParameter2D_1'
+    Expressions[12] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_sweets_00.MaterialExpressionScalarParameter_1'
+    Expressions[13] = MaterialExpressionVectorParameter'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_sweets_00.MaterialExpressionVectorParameter_2'
+    Expressions[14] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_sweets_00.MaterialExpressionScalarParameter_2'
+    Expressions[18] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_sweets_00.MaterialExpressionTextureSample_2'
+    Expressions[19] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_sweets_00.MaterialExpressionTextureSample_3'
+}
+CachedExpressionData =
+{
+    Parameters =
+    {
+        Entries[5] =
+        {
+            Entries[0] = { ParameterInfos[0]={} }
+            Entries[1] = { ParameterInfos[0]={} }
+            Entries[2] = { ParameterInfos[0]={} }
+            Entries[3] = { ParameterInfos[0]={} }
+            Entries[4] = { ParameterInfos[0]={} }
+        }
+        ScalarValues[0] = {}
+        VectorValues[0] = {}
+        TextureValues[0] = {}
+    }
+    ReferencedTextures[0] = {}
+}
+BlendMode = BLEND_Translucent (2)
+OpacityMaskClipValue = 0.333
+CollectedTextureParameters[1] =
+{
+    CollectedTextureParameters[0] =
+    {
+        Texture = Texture2D'/AT/Content/Art/EFF/e/skill/a/Cpl012/Textures/T_skill_012_saturday_01.T_skill_012_saturday_01'
+        Name = Param
+        Group = None
+    }
+}
+CollectedScalarParameters[2] =
+{
+    CollectedScalarParameters[0] = { Value=0.2, Name=width, Group=None }
+    CollectedScalarParameters[1] = { Value=10, Name=Boost, Group=None }
+}
+CollectedVectorParameters[1] =
+{
+    CollectedVectorParameters[0] =
+    {
+        Value = { R=0, G=0, B=0, A=0 }
+        Name = color
+        Group = None
+    }
+}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

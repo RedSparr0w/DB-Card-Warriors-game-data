@@ -1,0 +1,26 @@
+Materials[1] =
+{
+    Materials[0] = Material3'/AT/Content/DLC/TCG/art/DEMO/CardGet/Material/M_TCG_CardGet_Band.M_TCG_CardGet_Band'
+}
+SourceModels[0] = {}
+StaticMaterials[1] =
+{
+    StaticMaterials[0] =
+    {
+        MaterialInterface = Material3'/AT/Content/DLC/TCG/art/DEMO/CardGet/Material/M_TCG_CardGet_Band.M_TCG_CardGet_Band'
+        MaterialSlotName = WorldGridMaterial
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 6.15955, 14.367, 0, 0 }
+        }
+    }
+}
+Sockets[0] = {}
+ExtendedBounds =
+{
+    Origin = { X=0, Y=0.661318, Z=0.0549985 }
+    BoxExtent = { X=1, Y=4.32601, Z=0.0550015 }
+    SphereRadius = 4.44031
+}
