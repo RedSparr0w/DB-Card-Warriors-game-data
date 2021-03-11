@@ -1,0 +1,85 @@
+TwoSided = true
+bDisableDepthTest = false
+bIsMasked = false
+ReferencedTextures[2] =
+{
+    ReferencedTextures[0] = Texture2D'/AT/Content/Art/EFF/e/useful/Textures/T_useful_air_10_00_A.T_useful_air_10_00_A'
+    ReferencedTextures[1] = Texture2D'/AT/Content/Art/EFF/e/useful/Textures/T_useful_MaskCorner_0001_01_A.T_useful_MaskCorner_0001_01_A'
+}
+Expressions[25] =
+{
+    Expressions[4] = MaterialExpressionTextureSampleParameter2D'/AT/Content/DLC/TCG_Ex_1/art/EFF/e/cmn/Materiales/M_TCG_Ex_1_Skill_2062_HelsFlash_07.MaterialExpressionTextureSampleParameter2D_4'
+    Expressions[5] = MaterialExpressionTextureSampleParameter2D'/AT/Content/DLC/TCG_Ex_1/art/EFF/e/cmn/Materiales/M_TCG_Ex_1_Skill_2062_HelsFlash_07.MaterialExpressionTextureSampleParameter2D_5'
+    Expressions[11] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG_Ex_1/art/EFF/e/cmn/Materiales/M_TCG_Ex_1_Skill_2062_HelsFlash_07.MaterialExpressionScalarParameter_0'
+    Expressions[12] = MaterialExpressionStaticSwitchParameter'/AT/Content/DLC/TCG_Ex_1/art/EFF/e/cmn/Materiales/M_TCG_Ex_1_Skill_2062_HelsFlash_07.MaterialExpressionStaticSwitchParameter_0'
+    Expressions[14] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG_Ex_1/art/EFF/e/cmn/Materiales/M_TCG_Ex_1_Skill_2062_HelsFlash_07.MaterialExpressionScalarParameter_5'
+    Expressions[19] = MaterialExpressionVectorParameter'/AT/Content/DLC/TCG_Ex_1/art/EFF/e/cmn/Materiales/M_TCG_Ex_1_Skill_2062_HelsFlash_07.MaterialExpressionVectorParameter_2'
+    Expressions[21] = MaterialExpressionVectorParameter'/AT/Content/DLC/TCG_Ex_1/art/EFF/e/cmn/Materiales/M_TCG_Ex_1_Skill_2062_HelsFlash_07.MaterialExpressionVectorParameter_0'
+    Expressions[22] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG_Ex_1/art/EFF/e/cmn/Materiales/M_TCG_Ex_1_Skill_2062_HelsFlash_07.MaterialExpressionScalarParameter_2'
+    Expressions[24] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG_Ex_1/art/EFF/e/cmn/Materiales/M_TCG_Ex_1_Skill_2062_HelsFlash_07.MaterialExpressionScalarParameter_3'
+}
+CachedExpressionData =
+{
+    Parameters =
+    {
+        Entries[5] =
+        {
+            Entries[0] = { ParameterInfos[0]={} }
+            Entries[1] = { ParameterInfos[0]={} }
+            Entries[2] = { ParameterInfos[0]={} }
+            Entries[3] = { ParameterInfos[0]={} }
+            Entries[4] = { ParameterInfos[0]={} }
+        }
+        ScalarValues[0] = {}
+        VectorValues[0] = {}
+        TextureValues[0] = {}
+    }
+    ReferencedTextures[0] = {}
+}
+BlendMode = BLEND_Masked (1)
+OpacityMaskClipValue = 0.333
+CollectedTextureParameters[2] =
+{
+    CollectedTextureParameters[0] =
+    {
+        Texture = Texture2D'/AT/Content/Art/EFF/e/useful/Textures/T_useful_air_10_00_A.T_useful_air_10_00_A'
+        Name = Alpha01
+        Group = None
+    }
+    CollectedTextureParameters[1] =
+    {
+        Texture = Texture2D'/AT/Content/Art/EFF/e/useful/Textures/T_useful_MaskCorner_0001_01_A.T_useful_MaskCorner_0001_01_A'
+        Name = Alpha02
+        Group = None
+    }
+}
+CollectedScalarParameters[4] =
+{
+    CollectedScalarParameters[0] = { Value=0.25, Name=rote, Group=None }
+    CollectedScalarParameters[1] = { Value=0, Name=08--00--Reversal, Group=None }
+    CollectedScalarParameters[2] = { Value=6, Name=multi, Group=None }
+    CollectedScalarParameters[3] = { Value=3, Name=multi_1, Group=None }
+}
+CollectedVectorParameters[2] =
+{
+    CollectedVectorParameters[0] =
+    {
+        Value = { R=2, G=0.063396, B=0.020833, A=1 }
+        Name = 08--01--ShadowColor
+        Group = None
+    }
+    CollectedVectorParameters[1] =
+    {
+        Value = { R=10, G=3.25107, B=0.520833, A=1 }
+        Name = 08--01--ShadowColor_1
+        Group = None
+    }
+}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

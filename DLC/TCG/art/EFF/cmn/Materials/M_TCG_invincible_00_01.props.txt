@@ -1,15 +1,16 @@
 TwoSided = true
 bDisableDepthTest = false
 bIsMasked = false
-ReferencedTextures[5] =
+ReferencedTextures[6] =
 {
     ReferencedTextures[0] = Texture2D'/AT/Content/Art/EFF/e/cmn/Textures/T_cmn_noise_04_00_A.T_cmn_noise_04_00_A'
     ReferencedTextures[1] = Texture2D'/AT/Content/Art/EFF/e/cmn/Textures/T_cmn_noise_05_00_N.T_cmn_noise_05_00_N'
     ReferencedTextures[2] = Texture2D'/AT/Content/Art/EFF/e/cmn/Textures/T_cmn_noise_00_00_A.T_cmn_noise_00_00_A'
     ReferencedTextures[3] = Texture2D'/AT/Content/DLC/TCG/art/EFF/cmn/Textures/DesignCharacter2_N.DesignCharacter2_N'
     ReferencedTextures[4] = Texture2D'/AT/Content/Art/EFF/e/useful/Textures/T_useful_grad_01_00_E.T_useful_grad_01_00_E'
+    ReferencedTextures[5] = Texture2D'/AT/Content/Art/EFF/e/useful/Textures/T_useful_ptc_01_02_E.T_useful_ptc_01_02_E'
 }
-Expressions[52] =
+Expressions[78] =
 {
     Expressions[4] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_invincible_00_01.MaterialExpressionTextureSample_1'
     Expressions[5] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_invincible_00_01.MaterialExpressionTextureSample_2'
@@ -18,6 +19,11 @@ Expressions[52] =
     Expressions[21] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_invincible_00_01.MaterialExpressionTextureSample_6'
     Expressions[24] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_invincible_00_01.MaterialExpressionTextureSample_4'
     Expressions[25] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_invincible_00_01.MaterialExpressionTextureSample_7'
+    Expressions[58] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_invincible_00_01.MaterialExpressionScalarParameter_4'
+    Expressions[59] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_invincible_00_01.MaterialExpressionScalarParameter_5'
+    Expressions[60] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_invincible_00_01.MaterialExpressionTextureSample_11'
+    Expressions[63] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_invincible_00_01.MaterialExpressionTextureSample_12'
+    Expressions[69] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_invincible_00_01.MaterialExpressionTextureSample_13'
 }
 CachedExpressionData =
 {
@@ -40,7 +46,11 @@ CachedExpressionData =
 BlendMode = BLEND_Translucent (2)
 OpacityMaskClipValue = 0.333
 CollectedTextureParameters[0] = {}
-CollectedScalarParameters[0] = {}
+CollectedScalarParameters[2] =
+{
+    CollectedScalarParameters[0] = { Value=0.35, Name=None, Group=None }
+    CollectedScalarParameters[1] = { Value=-0.375, Name=Param_1, Group=None }
+}
 CollectedVectorParameters[0] = {}
 FlattenedTexture = None
 MobileBaseTexture = None

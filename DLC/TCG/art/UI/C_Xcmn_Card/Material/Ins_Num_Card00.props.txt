@@ -46,7 +46,7 @@ VectorParameterValues[1] =
     VectorParameterValues[0] =
     {
         ParameterInfo = { Name=Color }
-        ParameterValue = { R=1, G=1, B=1, A=1 }
+        ParameterValue = { R=0, G=0, B=0, A=1 }
         ParameterName = None
     }
 }

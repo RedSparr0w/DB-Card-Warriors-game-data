@@ -1,0 +1,66 @@
+TwoSided = true
+bDisableDepthTest = false
+bIsMasked = false
+ReferencedTextures[3] =
+{
+    ReferencedTextures[0] = Texture2D'/AT/Content/DLC/TCG/art/EFF/cmn/Textures/T_TCG_Aura_05.T_TCG_Aura_05'
+    ReferencedTextures[1] = Texture2D'/AT/Content/Art/EFF/e/useful/Textures/T_useful_MaskCorner_0001_01_A.T_useful_MaskCorner_0001_01_A'
+    ReferencedTextures[2] = Texture2D'/AT/Content/Art/EFF/e/cmn/Textures/T_cmn_noise_05_00_N.T_cmn_noise_05_00_N'
+}
+Expressions[39] =
+{
+    Expressions[2] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG_Ex_1/art/EFF/e/cmn/Materiales/M_TCG_Ex_1_Skill_2069_BulletRain_Bullet_01.MaterialExpressionTextureSample_0'
+    Expressions[7] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG_Ex_1/art/EFF/e/cmn/Materiales/M_TCG_Ex_1_Skill_2069_BulletRain_Bullet_01.MaterialExpressionTextureSample_1'
+    Expressions[12] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG_Ex_1/art/EFF/e/cmn/Materiales/M_TCG_Ex_1_Skill_2069_BulletRain_Bullet_01.MaterialExpressionScalarParameter_0'
+    Expressions[13] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG_Ex_1/art/EFF/e/cmn/Materiales/M_TCG_Ex_1_Skill_2069_BulletRain_Bullet_01.MaterialExpressionTextureSample_4'
+    Expressions[19] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG_Ex_1/art/EFF/e/cmn/Materiales/M_TCG_Ex_1_Skill_2069_BulletRain_Bullet_01.MaterialExpressionTextureSample_5'
+    Expressions[30] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG_Ex_1/art/EFF/e/cmn/Materiales/M_TCG_Ex_1_Skill_2069_BulletRain_Bullet_01.MaterialExpressionScalarParameter_3'
+    Expressions[31] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG_Ex_1/art/EFF/e/cmn/Materiales/M_TCG_Ex_1_Skill_2069_BulletRain_Bullet_01.MaterialExpressionScalarParameter_4'
+    Expressions[33] = MaterialExpressionVectorParameter'/AT/Content/DLC/TCG_Ex_1/art/EFF/e/cmn/Materiales/M_TCG_Ex_1_Skill_2069_BulletRain_Bullet_01.MaterialExpressionVectorParameter_0'
+    Expressions[38] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG_Ex_1/art/EFF/e/cmn/Materiales/M_TCG_Ex_1_Skill_2069_BulletRain_Bullet_01.MaterialExpressionScalarParameter_5'
+}
+CachedExpressionData =
+{
+    Parameters =
+    {
+        Entries[5] =
+        {
+            Entries[0] = { ParameterInfos[0]={} }
+            Entries[1] = { ParameterInfos[0]={} }
+            Entries[2] = { ParameterInfos[0]={} }
+            Entries[3] = { ParameterInfos[0]={} }
+            Entries[4] = { ParameterInfos[0]={} }
+        }
+        ScalarValues[0] = {}
+        VectorValues[0] = {}
+        TextureValues[0] = {}
+    }
+    ReferencedTextures[0] = {}
+}
+BlendMode = BLEND_Translucent (2)
+OpacityMaskClipValue = 0.333
+CollectedTextureParameters[0] = {}
+CollectedScalarParameters[4] =
+{
+    CollectedScalarParameters[0] = { Value=2, Name=U_scale, Group=None }
+    CollectedScalarParameters[1] = { Value=2, Name=V_scale, Group=None }
+    CollectedScalarParameters[2] = { Value=-0.5, Name=V_offset, Group=None }
+    CollectedScalarParameters[3] = { Value=-500, Name=ColorDepth, Group=None }
+}
+CollectedVectorParameters[1] =
+{
+    CollectedVectorParameters[0] =
+    {
+        Value = { R=6, G=0.042858, B=0.171417, A=1 }
+        Name = None
+        Group = None
+    }
+}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

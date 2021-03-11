@@ -1,0 +1,38 @@
+Materials[2] =
+{
+    Materials[0] = Material3'/AT/Content/DLC/TCG_Ex_1/art/EFF/e/cmn/Materiales/M_TCG_Ex_1_Skill_2062_rock_01.M_TCG_Ex_1_Skill_2062_rock_01'
+    Materials[1] = Material3'/AT/Content/DLC/TCG_Ex_1/art/EFF/e/cmn/Materiales/M_TCG_Ex_1_Skill_2062_HelsFlash_rock_02.M_TCG_Ex_1_Skill_2062_HelsFlash_rock_02'
+}
+SourceModels[0] = {}
+StaticMaterials[2] =
+{
+    StaticMaterials[0] =
+    {
+        MaterialInterface = Material3'/AT/Content/DLC/TCG_Ex_1/art/EFF/e/cmn/Materiales/M_TCG_Ex_1_Skill_2062_rock_01.M_TCG_Ex_1_Skill_2062_rock_01'
+        MaterialSlotName = lambert1
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 1807.1, 0, 0, 0 }
+        }
+    }
+    StaticMaterials[1] =
+    {
+        MaterialInterface = Material3'/AT/Content/DLC/TCG_Ex_1/art/EFF/e/cmn/Materiales/M_TCG_Ex_1_Skill_2062_HelsFlash_rock_02.M_TCG_Ex_1_Skill_2062_HelsFlash_rock_02'
+        MaterialSlotName = lambert2
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 749.892, 0, 0, 0 }
+        }
+    }
+}
+Sockets[0] = {}
+ExtendedBounds =
+{
+    Origin = { X=20.5078, Y=-10.9863, Z=100.01 }
+    BoxExtent = { X=354.382, Y=351.737, Z=100 }
+    SphereRadius = 424.247
+}

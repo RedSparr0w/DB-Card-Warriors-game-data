@@ -1,0 +1,54 @@
+TwoSided = true
+bDisableDepthTest = false
+bIsMasked = false
+ReferencedTextures[4] =
+{
+    ReferencedTextures[0] = Texture2D'/AT/Content/Art/EFF/e/useful/Textures/T_useful_wtr_02_00.T_useful_wtr_02_00'
+    ReferencedTextures[1] = Texture2D'/AT/Content/Art/EFF/e/useful/Textures/T_useful_shock_06_00_A.T_useful_shock_06_00_A'
+    ReferencedTextures[2] = Texture2D'/AT/Content/Art/EFF/e/cmn/Textures/T_cmn_noise_05_00_N.T_cmn_noise_05_00_N'
+    ReferencedTextures[3] = Texture2D'/AT/Content/Art/EFF/e/useful/Textures/T_useful_wave_02_00_A.T_useful_wave_02_00_A'
+}
+Expressions[33] =
+{
+    Expressions[3] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG_Ex_1/art/EFF/e/cmn/Materiales/M_TCG_Ex_1_cmn_Destroy_04.MaterialExpressionTextureSample_4'
+    Expressions[7] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG_Ex_1/art/EFF/e/cmn/Materiales/M_TCG_Ex_1_cmn_Destroy_04.MaterialExpressionTextureSample_5'
+    Expressions[17] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG_Ex_1/art/EFF/e/cmn/Materiales/M_TCG_Ex_1_cmn_Destroy_04.MaterialExpressionTextureSample_3'
+    Expressions[22] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG_Ex_1/art/EFF/e/cmn/Materiales/M_TCG_Ex_1_cmn_Destroy_04.MaterialExpressionTextureSample_12'
+    Expressions[31] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG_Ex_1/art/EFF/e/cmn/Materiales/M_TCG_Ex_1_cmn_Destroy_04.MaterialExpressionScalarParameter_0'
+    Expressions[32] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG_Ex_1/art/EFF/e/cmn/Materiales/M_TCG_Ex_1_cmn_Destroy_04.MaterialExpressionScalarParameter_1'
+}
+CachedExpressionData =
+{
+    Parameters =
+    {
+        Entries[5] =
+        {
+            Entries[0] = { ParameterInfos[0]={} }
+            Entries[1] = { ParameterInfos[0]={} }
+            Entries[2] = { ParameterInfos[0]={} }
+            Entries[3] = { ParameterInfos[0]={} }
+            Entries[4] = { ParameterInfos[0]={} }
+        }
+        ScalarValues[0] = {}
+        VectorValues[0] = {}
+        TextureValues[0] = {}
+    }
+    ReferencedTextures[0] = {}
+}
+BlendMode = BLEND_Translucent (2)
+OpacityMaskClipValue = 0.333
+CollectedTextureParameters[0] = {}
+CollectedScalarParameters[2] =
+{
+    CollectedScalarParameters[0] = { Value=1, Name=V_Tiring, Group=None }
+    CollectedScalarParameters[1] = { Value=1, Name=U_Tiring, Group=None }
+}
+CollectedVectorParameters[0] = {}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

@@ -1,0 +1,95 @@
+TwoSided = false
+bDisableDepthTest = false
+bIsMasked = false
+ReferencedTextures[3] =
+{
+    ReferencedTextures[0] = Texture2D'/AT/Content/DLC/TCG/art/UI/C_Xcmn_Card/Tex/C_Mask_Card00.C_Mask_Card00'
+    ReferencedTextures[1] = Texture2D'/AT/Content/DLC/TCG/art/UI/C_Xcmn_Card/Tex/C_Mask_Card01.C_Mask_Card01'
+    ReferencedTextures[2] = Texture2D'/AT/Content/DLC/TCG/art/UI/C_Xcmn_Card/Tex/C_Mask_Card02.C_Mask_Card02'
+}
+Expressions[26] =
+{
+    Expressions[0] = MaterialExpressionTextureSampleParameter2D'/AT/Content/DLC/TCG/art/UI/C_Xcmn_Card/Material/Mat_Mask_Anm00.MaterialExpressionTextureSampleParameter2D_0'
+    Expressions[5] = MaterialExpressionVectorParameter'/AT/Content/DLC/TCG/art/UI/C_Xcmn_Card/Material/Mat_Mask_Anm00.MaterialExpressionVectorParameter_0'
+    Expressions[8] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG/art/UI/C_Xcmn_Card/Material/Mat_Mask_Anm00.MaterialExpressionScalarParameter_3'
+    Expressions[9] = MaterialExpressionTextureSampleParameter2D'/AT/Content/DLC/TCG/art/UI/C_Xcmn_Card/Material/Mat_Mask_Anm00.MaterialExpressionTextureSampleParameter2D_1'
+    Expressions[10] = MaterialExpressionTextureSampleParameter2D'/AT/Content/DLC/TCG/art/UI/C_Xcmn_Card/Material/Mat_Mask_Anm00.MaterialExpressionTextureSampleParameter2D_2'
+    Expressions[14] = MaterialExpressionVectorParameter'/AT/Content/DLC/TCG/art/UI/C_Xcmn_Card/Material/Mat_Mask_Anm00.MaterialExpressionVectorParameter_2'
+    Expressions[18] = MaterialExpressionTextureSampleParameter2D'/AT/Content/DLC/TCG/art/UI/C_Xcmn_Card/Material/Mat_Mask_Anm00.MaterialExpressionTextureSampleParameter2D_3'
+    Expressions[22] = MaterialExpressionVectorParameter'/AT/Content/DLC/TCG/art/UI/C_Xcmn_Card/Material/Mat_Mask_Anm00.MaterialExpressionVectorParameter_3'
+}
+CachedExpressionData =
+{
+    Parameters =
+    {
+        Entries[5] =
+        {
+            Entries[0] = { ParameterInfos[0]={} }
+            Entries[1] = { ParameterInfos[0]={} }
+            Entries[2] = { ParameterInfos[0]={} }
+            Entries[3] = { ParameterInfos[0]={} }
+            Entries[4] = { ParameterInfos[0]={} }
+        }
+        ScalarValues[0] = {}
+        VectorValues[0] = {}
+        TextureValues[0] = {}
+    }
+    ReferencedTextures[0] = {}
+}
+BlendMode = BLEND_Translucent (2)
+OpacityMaskClipValue = 0.333
+CollectedTextureParameters[4] =
+{
+    CollectedTextureParameters[0] = { Texture=None, Name=Texture, Group=Texture }
+    CollectedTextureParameters[1] =
+    {
+        Texture = Texture2D'/AT/Content/DLC/TCG/art/UI/C_Xcmn_Card/Tex/C_Mask_Card00.C_Mask_Card00'
+        Name = Mask1
+        Group = Texture
+    }
+    CollectedTextureParameters[2] =
+    {
+        Texture = Texture2D'/AT/Content/DLC/TCG/art/UI/C_Xcmn_Card/Tex/C_Mask_Card01.C_Mask_Card01'
+        Name = Mask2
+        Group = Texture
+    }
+    CollectedTextureParameters[3] =
+    {
+        Texture = Texture2D'/AT/Content/DLC/TCG/art/UI/C_Xcmn_Card/Tex/C_Mask_Card02.C_Mask_Card02'
+        Name = Mask3
+        Group = Texture
+    }
+}
+CollectedScalarParameters[1] =
+{
+    CollectedScalarParameters[0] = { Value=0.1, Name=Speed, Group=None }
+}
+CollectedVectorParameters[3] =
+{
+    CollectedVectorParameters[0] =
+    {
+        Value = { R=0.5, G=0.5, B=0, A=1 }
+        Name = Center
+        Group = None
+    }
+    CollectedVectorParameters[1] =
+    {
+        Value = { R=0, G=0.2, B=0, A=0 }
+        Name = Scroll Speed
+        Group = None
+    }
+    CollectedVectorParameters[2] =
+    {
+        Value = { R=0.2, G=0, B=0, A=0 }
+        Name = Scroll Speed2
+        Group = None
+    }
+}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

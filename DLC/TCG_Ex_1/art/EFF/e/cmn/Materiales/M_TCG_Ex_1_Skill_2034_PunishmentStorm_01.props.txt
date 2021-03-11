@@ -1,0 +1,46 @@
+TwoSided = false
+bDisableDepthTest = false
+bIsMasked = false
+ReferencedTextures[3] =
+{
+    ReferencedTextures[0] = Texture2D'/AT/Content/Art/EFF/e/useful/Textures/T_useful_ptc_03_00.T_useful_ptc_03_00'
+    ReferencedTextures[1] = Texture2D'/AT/Content/Art/EFF/e/cmn/Textures/T_cmn_noise_05_00_N.T_cmn_noise_05_00_N'
+    ReferencedTextures[2] = Texture2D'/AT/Content/Art/EFF/e/cmn/Textures/T_cmn_noise_03_00_E.T_cmn_noise_03_00_E'
+}
+Expressions[18] =
+{
+    Expressions[2] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG_Ex_1/art/EFF/e/cmn/Materiales/M_TCG_Ex_1_Skill_2034_PunishmentStorm_01.MaterialExpressionTextureSample_0'
+    Expressions[7] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG_Ex_1/art/EFF/e/cmn/Materiales/M_TCG_Ex_1_Skill_2034_PunishmentStorm_01.MaterialExpressionTextureSample_2'
+    Expressions[12] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG_Ex_1/art/EFF/e/cmn/Materiales/M_TCG_Ex_1_Skill_2034_PunishmentStorm_01.MaterialExpressionTextureSample_3'
+}
+CachedExpressionData =
+{
+    Parameters =
+    {
+        Entries[5] =
+        {
+            Entries[0] = { ParameterInfos[0]={} }
+            Entries[1] = { ParameterInfos[0]={} }
+            Entries[2] = { ParameterInfos[0]={} }
+            Entries[3] = { ParameterInfos[0]={} }
+            Entries[4] = { ParameterInfos[0]={} }
+        }
+        ScalarValues[0] = {}
+        VectorValues[0] = {}
+        TextureValues[0] = {}
+    }
+    ReferencedTextures[0] = {}
+}
+BlendMode = BLEND_Translucent (2)
+OpacityMaskClipValue = 0.333
+CollectedTextureParameters[0] = {}
+CollectedScalarParameters[0] = {}
+CollectedVectorParameters[0] = {}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

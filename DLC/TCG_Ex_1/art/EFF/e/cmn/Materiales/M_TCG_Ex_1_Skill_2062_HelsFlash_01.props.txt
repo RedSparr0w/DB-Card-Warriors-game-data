@@ -1,0 +1,61 @@
+TwoSided = false
+bDisableDepthTest = false
+bIsMasked = false
+ReferencedTextures[4] =
+{
+    ReferencedTextures[0] = Texture2D'/AT/Content/Art/EFF/e/useful/Textures/T_useful_aura_09_00_A.T_useful_aura_09_00_A'
+    ReferencedTextures[1] = Texture2D'/AT/Content/Art/EFF/e/useful/Textures/T_useful_grad_04_00_A_clamp.T_useful_grad_04_00_A_clamp'
+    ReferencedTextures[2] = Texture2D'/AT/Content/Art/EFF/e/useful/Textures/T_useful_wave_03_00_A.T_useful_wave_03_00_A'
+    ReferencedTextures[3] = Texture2D'/AT/Content/Art/EFF/e/useful/Textures/T_useful_smk_12_00_E.T_useful_smk_12_00_E'
+}
+Expressions[24] =
+{
+    Expressions[3] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG_Ex_1/art/EFF/e/cmn/Materiales/M_tCG_Ex_1_Skill_2062_HelsFlash_01.MaterialExpressionTextureSample_0'
+    Expressions[6] = MaterialExpressionVectorParameter'/AT/Content/DLC/TCG_Ex_1/art/EFF/e/cmn/Materiales/M_tCG_Ex_1_Skill_2062_HelsFlash_01.MaterialExpressionVectorParameter_1'
+    Expressions[7] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG_Ex_1/art/EFF/e/cmn/Materiales/M_tCG_Ex_1_Skill_2062_HelsFlash_01.MaterialExpressionTextureSample_1'
+    Expressions[11] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG_Ex_1/art/EFF/e/cmn/Materiales/M_tCG_Ex_1_Skill_2062_HelsFlash_01.MaterialExpressionScalarParameter_0'
+    Expressions[12] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG_Ex_1/art/EFF/e/cmn/Materiales/M_tCG_Ex_1_Skill_2062_HelsFlash_01.MaterialExpressionTextureSample_3'
+    Expressions[18] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG_Ex_1/art/EFF/e/cmn/Materiales/M_tCG_Ex_1_Skill_2062_HelsFlash_01.MaterialExpressionTextureSample_4'
+}
+CachedExpressionData =
+{
+    Parameters =
+    {
+        Entries[5] =
+        {
+            Entries[0] = { ParameterInfos[0]={} }
+            Entries[1] = { ParameterInfos[0]={} }
+            Entries[2] = { ParameterInfos[0]={} }
+            Entries[3] = { ParameterInfos[0]={} }
+            Entries[4] = { ParameterInfos[0]={} }
+        }
+        ScalarValues[0] = {}
+        VectorValues[0] = {}
+        TextureValues[0] = {}
+    }
+    ReferencedTextures[0] = {}
+}
+BlendMode = BLEND_Translucent (2)
+OpacityMaskClipValue = 0.333
+CollectedTextureParameters[0] = {}
+CollectedScalarParameters[1] =
+{
+    CollectedScalarParameters[0] = { Value=0.1, Name=fresnel, Group=None }
+}
+CollectedVectorParameters[1] =
+{
+    CollectedVectorParameters[0] =
+    {
+        Value = { R=3, G=3, B=3, A=1 }
+        Name = Param_01
+        Group = None
+    }
+}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}
