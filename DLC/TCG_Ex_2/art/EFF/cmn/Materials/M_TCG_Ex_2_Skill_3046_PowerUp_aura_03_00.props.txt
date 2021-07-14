@@ -1,0 +1,62 @@
+TwoSided = false
+bDisableDepthTest = false
+bIsMasked = false
+ReferencedTextures[4] =
+{
+    ReferencedTextures[0] = Texture2D'/AT/Content/Art/EFF/e/useful/Textures/T_useful_wtr_02_00.T_useful_wtr_02_00'
+    ReferencedTextures[1] = Texture2D'/AT/Content/Art/EFF/e/useful/Textures/T_useful_shock_06_00_A.T_useful_shock_06_00_A'
+    ReferencedTextures[2] = Texture2D'/AT/Content/Art/EFF/e/cmn/Textures/T_cmn_noise_05_00_N.T_cmn_noise_05_00_N'
+    ReferencedTextures[3] = Texture2D'/AT/Content/Art/EFF/e/useful/Textures/T_useful_wave_02_00_A.T_useful_wave_02_00_A'
+}
+Expressions[67] =
+{
+    Expressions[3] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG_Ex_2/art/EFF/cmn/Materials/M_TCG_Ex_2_Skill_3046_PowerUp_aura_03_00.MaterialExpressionTextureSample_2'
+    Expressions[7] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG_Ex_2/art/EFF/cmn/Materials/M_TCG_Ex_2_Skill_3046_PowerUp_aura_03_00.MaterialExpressionTextureSample_8'
+    Expressions[17] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG_Ex_2/art/EFF/cmn/Materials/M_TCG_Ex_2_Skill_3046_PowerUp_aura_03_00.MaterialExpressionTextureSample_9'
+    Expressions[22] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG_Ex_2/art/EFF/cmn/Materials/M_TCG_Ex_2_Skill_3046_PowerUp_aura_03_00.MaterialExpressionTextureSample_10'
+    Expressions[31] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG_Ex_2/art/EFF/cmn/Materials/M_TCG_Ex_2_Skill_3046_PowerUp_aura_03_00.MaterialExpressionScalarParameter_2'
+    Expressions[32] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG_Ex_2/art/EFF/cmn/Materials/M_TCG_Ex_2_Skill_3046_PowerUp_aura_03_00.MaterialExpressionScalarParameter_3'
+    Expressions[36] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG_Ex_2/art/EFF/cmn/Materials/M_TCG_Ex_2_Skill_3046_PowerUp_aura_03_00.MaterialExpressionTextureSample_16'
+    Expressions[40] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG_Ex_2/art/EFF/cmn/Materials/M_TCG_Ex_2_Skill_3046_PowerUp_aura_03_00.MaterialExpressionTextureSample_17'
+    Expressions[50] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG_Ex_2/art/EFF/cmn/Materials/M_TCG_Ex_2_Skill_3046_PowerUp_aura_03_00.MaterialExpressionTextureSample_18'
+    Expressions[55] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG_Ex_2/art/EFF/cmn/Materials/M_TCG_Ex_2_Skill_3046_PowerUp_aura_03_00.MaterialExpressionTextureSample_19'
+    Expressions[64] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG_Ex_2/art/EFF/cmn/Materials/M_TCG_Ex_2_Skill_3046_PowerUp_aura_03_00.MaterialExpressionScalarParameter_6'
+    Expressions[65] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG_Ex_2/art/EFF/cmn/Materials/M_TCG_Ex_2_Skill_3046_PowerUp_aura_03_00.MaterialExpressionScalarParameter_7'
+}
+CachedExpressionData =
+{
+    Parameters =
+    {
+        Entries[5] =
+        {
+            Entries[0] = { ParameterInfos[0]={} }
+            Entries[1] = { ParameterInfos[0]={} }
+            Entries[2] = { ParameterInfos[0]={} }
+            Entries[3] = { ParameterInfos[0]={} }
+            Entries[4] = { ParameterInfos[0]={} }
+        }
+        ScalarValues[0] = {}
+        VectorValues[0] = {}
+        TextureValues[0] = {}
+    }
+    ReferencedTextures[0] = {}
+}
+BlendMode = BLEND_Translucent (2)
+OpacityMaskClipValue = 0.333
+CollectedTextureParameters[0] = {}
+CollectedScalarParameters[4] =
+{
+    CollectedScalarParameters[0] = { Value=1, Name=V_Tiring, Group=None }
+    CollectedScalarParameters[1] = { Value=1, Name=U_Tiring, Group=None }
+    CollectedScalarParameters[2] = { Value=1, Name=V_Tiring, Group=None }
+    CollectedScalarParameters[3] = { Value=1, Name=U_Tiring, Group=None }
+}
+CollectedVectorParameters[0] = {}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

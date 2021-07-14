@@ -1,0 +1,86 @@
+TwoSided = false
+bDisableDepthTest = false
+bIsMasked = false
+ReferencedTextures[6] =
+{
+    ReferencedTextures[0] = Texture2D'/AT/Content/Art/EFF/e/useful/Textures/T_useful_ptc_03_00.T_useful_ptc_03_00'
+    ReferencedTextures[1] = Texture2D'/AT/Content/DLC/TCG/art/EFF/cmn/Textures/T_TCG_CMN_Silhouette_00_00.T_TCG_CMN_Silhouette_00_00'
+    ReferencedTextures[2] = Texture2D'/AT/Content/DLC/TCG/art/EFF/cmn/Textures/T_TCG_Aura_02_04.T_TCG_Aura_02_04'
+    ReferencedTextures[3] = Texture2D'/AT/Content/Art/EFF/e/cmn/Textures/T_cmn_noise_11_00_A.T_cmn_noise_11_00_A'
+    ReferencedTextures[4] = Texture2D'/AT/Content/Art/EFF/e/useful/Textures/T_useful_smk_0001_A.T_useful_smk_0001_A'
+    ReferencedTextures[5] = Texture2D'/AT/Content/Art/EFF/e/cmn/Textures/T_cmn_noise_05_00_N.T_cmn_noise_05_00_N'
+}
+Expressions[97] =
+{
+    Expressions[8] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG_Ex_2/art/EFF/cmn/Materials/M_TCG_Ex_2_cmn_aura_00.MaterialExpressionTextureSample_11'
+    Expressions[12] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG_Ex_2/art/EFF/cmn/Materials/M_TCG_Ex_2_cmn_aura_00.MaterialExpressionScalarParameter_21'
+    Expressions[15] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG_Ex_2/art/EFF/cmn/Materials/M_TCG_Ex_2_cmn_aura_00.MaterialExpressionTextureSample_1'
+    Expressions[19] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG_Ex_2/art/EFF/cmn/Materials/M_TCG_Ex_2_cmn_aura_00.MaterialExpressionTextureSample_2'
+    Expressions[23] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG_Ex_2/art/EFF/cmn/Materials/M_TCG_Ex_2_cmn_aura_00.MaterialExpressionScalarParameter_1'
+    Expressions[24] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG_Ex_2/art/EFF/cmn/Materials/M_TCG_Ex_2_cmn_aura_00.MaterialExpressionScalarParameter_3'
+    Expressions[42] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG_Ex_2/art/EFF/cmn/Materials/M_TCG_Ex_2_cmn_aura_00.MaterialExpressionScalarParameter_4'
+    Expressions[43] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG_Ex_2/art/EFF/cmn/Materials/M_TCG_Ex_2_cmn_aura_00.MaterialExpressionTextureSample_3'
+    Expressions[44] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG_Ex_2/art/EFF/cmn/Materials/M_TCG_Ex_2_cmn_aura_00.MaterialExpressionTextureSample_4'
+    Expressions[49] = MaterialExpressionVectorParameter'/AT/Content/DLC/TCG_Ex_2/art/EFF/cmn/Materials/M_TCG_Ex_2_cmn_aura_00.MaterialExpressionVectorParameter_1'
+    Expressions[53] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG_Ex_2/art/EFF/cmn/Materials/M_TCG_Ex_2_cmn_aura_00.MaterialExpressionTextureSample_0'
+    Expressions[56] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG_Ex_2/art/EFF/cmn/Materials/M_TCG_Ex_2_cmn_aura_00.MaterialExpressionTextureSample_5'
+    Expressions[60] = MaterialExpressionVectorParameter'/AT/Content/DLC/TCG_Ex_2/art/EFF/cmn/Materials/M_TCG_Ex_2_cmn_aura_00.MaterialExpressionVectorParameter_2'
+    Expressions[68] = MaterialExpressionVectorParameter'/AT/Content/DLC/TCG_Ex_2/art/EFF/cmn/Materials/M_TCG_Ex_2_cmn_aura_00.MaterialExpressionVectorParameter_3'
+}
+CachedExpressionData =
+{
+    Parameters =
+    {
+        Entries[5] =
+        {
+            Entries[0] = { ParameterInfos[0]={} }
+            Entries[1] = { ParameterInfos[0]={} }
+            Entries[2] = { ParameterInfos[0]={} }
+            Entries[3] = { ParameterInfos[0]={} }
+            Entries[4] = { ParameterInfos[0]={} }
+        }
+        ScalarValues[0] = {}
+        VectorValues[0] = {}
+        TextureValues[0] = {}
+    }
+    ReferencedTextures[0] = {}
+}
+BlendMode = BLEND_Translucent (2)
+OpacityMaskClipValue = 0.333
+CollectedTextureParameters[0] = {}
+CollectedScalarParameters[4] =
+{
+    CollectedScalarParameters[0] = { Value=0.1, Name=dist_2, Group=None }
+    CollectedScalarParameters[1] = { Value=4, Name=TileU, Group=None }
+    CollectedScalarParameters[2] = { Value=4, Name=TileV, Group=None }
+    CollectedScalarParameters[3] = { Value=2, Name=Flipbook_Speed, Group=None }
+}
+CollectedVectorParameters[3] =
+{
+    CollectedVectorParameters[0] =
+    {
+        Value = { R=3.75, G=9.37499, B=15, A=1 }
+        Name = color02
+        Group = None
+    }
+    CollectedVectorParameters[1] =
+    {
+        Value = { R=0.3, G=0.974999, B=3, A=1 }
+        Name = LerpColor_Dark
+        Group = None
+    }
+    CollectedVectorParameters[2] =
+    {
+        Value = { R=0.375, G=1.6875, B=3, A=1 }
+        Name = LerpColor_White
+        Group = None
+    }
+}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

@@ -11,72 +11,72 @@ Expressions[88] =
 {
     Expressions[0] = MaterialExpressionStaticSwitchParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionStaticSwitchParameter_14'
     Expressions[2] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_48'
-    Expressions[11] = MaterialExpressionVectorParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionVectorParameter_5'
-    Expressions[12] = MaterialExpressionVectorParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionVectorParameter_0'
-    Expressions[13] = MaterialExpressionVectorParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionVectorParameter_1'
-    Expressions[17] = MaterialExpressionVectorParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionVectorParameter_2'
-    Expressions[18] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_3'
-    Expressions[19] = MaterialExpressionVectorParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionVectorParameter_4'
-    Expressions[20] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_4'
-    Expressions[21] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_5'
-    Expressions[22] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_6'
-    Expressions[23] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_7'
-    Expressions[24] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_8'
-    Expressions[25] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_10'
-    Expressions[26] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_11'
-    Expressions[27] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_12'
-    Expressions[28] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_13'
-    Expressions[29] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_14'
-    Expressions[30] = MaterialExpressionVectorParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionVectorParameter_6'
-    Expressions[31] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_15'
-    Expressions[32] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_16'
-    Expressions[33] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_17'
-    Expressions[34] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_18'
-    Expressions[35] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_19'
-    Expressions[36] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_20'
-    Expressions[37] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_21'
-    Expressions[38] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_28'
-    Expressions[39] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_31'
-    Expressions[40] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_32'
-    Expressions[41] = MaterialExpressionVectorParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionVectorParameter_7'
-    Expressions[42] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_33'
-    Expressions[43] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_34'
-    Expressions[44] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_35'
-    Expressions[45] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_36'
-    Expressions[46] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_37'
-    Expressions[47] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_38'
-    Expressions[48] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_39'
-    Expressions[49] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_40'
-    Expressions[50] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_41'
-    Expressions[51] = MaterialExpressionVectorParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionVectorParameter_9'
-    Expressions[52] = MaterialExpressionVectorParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionVectorParameter_10'
-    Expressions[53] = MaterialExpressionVectorParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionVectorParameter_11'
-    Expressions[54] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_42'
-    Expressions[55] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_43'
-    Expressions[56] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_1'
-    Expressions[57] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_22'
-    Expressions[60] = MaterialExpressionVectorParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionVectorParameter_3'
-    Expressions[61] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_24'
-    Expressions[62] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_25'
-    Expressions[63] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_26'
-    Expressions[64] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_27'
-    Expressions[65] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_29'
-    Expressions[66] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_30'
-    Expressions[67] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_46'
-    Expressions[68] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_47'
-    Expressions[69] = MaterialExpressionVectorParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionVectorParameter_8'
-    Expressions[70] = MaterialExpressionTextureSampleParameter2D'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionTextureSampleParameter2D_5'
-    Expressions[71] = MaterialExpressionStaticSwitchParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionStaticSwitchParameter_24'
-    Expressions[72] = MaterialExpressionTextureSampleParameter2D'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionTextureSampleParameter2D_22'
-    Expressions[74] = MaterialExpressionStaticSwitchParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionStaticSwitchParameter_6'
-    Expressions[75] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_49'
-    Expressions[77] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_50'
-    Expressions[78] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_0'
-    Expressions[79] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_9'
-    Expressions[80] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_23'
-    Expressions[81] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_44'
-    Expressions[82] = MaterialExpressionTextureSampleParameter2D'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionTextureSampleParameter2D_2'
-    Expressions[85] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_2'
+    Expressions[4] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_2'
+    Expressions[12] = MaterialExpressionVectorParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionVectorParameter_5'
+    Expressions[13] = MaterialExpressionVectorParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionVectorParameter_0'
+    Expressions[14] = MaterialExpressionVectorParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionVectorParameter_1'
+    Expressions[18] = MaterialExpressionVectorParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionVectorParameter_2'
+    Expressions[19] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_3'
+    Expressions[20] = MaterialExpressionVectorParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionVectorParameter_4'
+    Expressions[21] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_4'
+    Expressions[22] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_5'
+    Expressions[23] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_6'
+    Expressions[24] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_7'
+    Expressions[25] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_8'
+    Expressions[26] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_10'
+    Expressions[27] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_11'
+    Expressions[28] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_12'
+    Expressions[29] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_13'
+    Expressions[30] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_14'
+    Expressions[31] = MaterialExpressionVectorParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionVectorParameter_6'
+    Expressions[32] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_15'
+    Expressions[33] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_16'
+    Expressions[34] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_17'
+    Expressions[35] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_18'
+    Expressions[36] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_19'
+    Expressions[37] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_20'
+    Expressions[38] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_21'
+    Expressions[39] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_28'
+    Expressions[40] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_31'
+    Expressions[41] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_32'
+    Expressions[42] = MaterialExpressionVectorParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionVectorParameter_7'
+    Expressions[43] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_33'
+    Expressions[44] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_34'
+    Expressions[45] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_35'
+    Expressions[46] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_36'
+    Expressions[47] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_37'
+    Expressions[48] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_38'
+    Expressions[49] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_39'
+    Expressions[50] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_40'
+    Expressions[51] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_41'
+    Expressions[52] = MaterialExpressionVectorParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionVectorParameter_9'
+    Expressions[53] = MaterialExpressionVectorParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionVectorParameter_10'
+    Expressions[54] = MaterialExpressionVectorParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionVectorParameter_11'
+    Expressions[55] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_42'
+    Expressions[56] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_43'
+    Expressions[57] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_1'
+    Expressions[58] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_22'
+    Expressions[61] = MaterialExpressionVectorParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionVectorParameter_3'
+    Expressions[62] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_24'
+    Expressions[63] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_25'
+    Expressions[64] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_26'
+    Expressions[65] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_27'
+    Expressions[66] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_29'
+    Expressions[67] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_30'
+    Expressions[68] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_46'
+    Expressions[69] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_47'
+    Expressions[70] = MaterialExpressionVectorParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionVectorParameter_8'
+    Expressions[71] = MaterialExpressionTextureSampleParameter2D'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionTextureSampleParameter2D_5'
+    Expressions[72] = MaterialExpressionStaticSwitchParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionStaticSwitchParameter_24'
+    Expressions[73] = MaterialExpressionTextureSampleParameter2D'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionTextureSampleParameter2D_22'
+    Expressions[75] = MaterialExpressionStaticSwitchParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionStaticSwitchParameter_6'
+    Expressions[76] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_49'
+    Expressions[78] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_50'
+    Expressions[79] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_0'
+    Expressions[80] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_9'
+    Expressions[81] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_23'
+    Expressions[82] = MaterialExpressionScalarParameter'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionScalarParameter_44'
+    Expressions[83] = MaterialExpressionTextureSampleParameter2D'/AT/Content/MasterMaterials/AT_Materials/CellShade_Tone_Crystal.MaterialExpressionTextureSampleParameter2D_2'
 }
 CachedExpressionData =
 {
@@ -122,75 +122,85 @@ CollectedTextureParameters[3] =
 CollectedScalarParameters[50] =
 {
     CollectedScalarParameters[0] = { Value=0, Name=AffectedLight, Group=None }
-    CollectedScalarParameters[1] = { Value=0, Name=LightVectorPower_1, Group=None }
-    CollectedScalarParameters[2] = { Value=0, Name=RegionOffset_1, Group=None }
-    CollectedScalarParameters[3] = { Value=0, Name=RegionOffset_Middle_1, Group=None }
-    CollectedScalarParameters[4] = { Value=10, Name=MiddleGradPower_1, Group=None }
-    CollectedScalarParameters[5] = { Value=0, Name=RimLightPow_dark_1, Group=None }
+    CollectedScalarParameters[1] = { Value=1, Name=Opacity Threshold, Group=None }
+    CollectedScalarParameters[2] = { Value=0, Name=LightVectorPower_1, Group=None }
+    CollectedScalarParameters[3] = { Value=0, Name=RegionOffset_1, Group=None }
+    CollectedScalarParameters[4] = { Value=0, Name=RegionOffset_Middle_1, Group=None }
+    CollectedScalarParameters[5] = { Value=10, Name=MiddleGradPower_1, Group=None }
     CollectedScalarParameters[6] =
+    {
+        Value = -1e-06
+        Name = RimLightPow_dark_1
+        Group = None
+    }
+    CollectedScalarParameters[7] =
     {
         Value = 20
         Name = RimLightPow_bright_Middle_1
         Group = None
     }
-    CollectedScalarParameters[7] = { Value=0, Name=RimLightPow_bright_1, Group=None }
-    CollectedScalarParameters[8] = { Value=0, Name=RimLightInfl_bright_1, Group=None }
-    CollectedScalarParameters[9] = { Value=0, Name=RimLightInfl_dark_1, Group=None }
-    CollectedScalarParameters[10] = { Value=1, Name=RimPower_1, Group=None }
-    CollectedScalarParameters[11] = { Value=0, Name=LightVectorPower_2, Group=None }
-    CollectedScalarParameters[12] = { Value=0, Name=RegionOffset_2, Group=None }
-    CollectedScalarParameters[13] = { Value=0, Name=RegionOffset_Middle_2, Group=None }
-    CollectedScalarParameters[14] = { Value=10, Name=MiddleGradPower_2, Group=None }
-    CollectedScalarParameters[15] = { Value=0, Name=RimLightPow_dark_2, Group=None }
-    CollectedScalarParameters[16] =
+    CollectedScalarParameters[8] = { Value=0, Name=RimLightPow_bright_1, Group=None }
+    CollectedScalarParameters[9] = { Value=0, Name=RimLightInfl_bright_1, Group=None }
+    CollectedScalarParameters[10] = { Value=0, Name=RimLightInfl_dark_1, Group=None }
+    CollectedScalarParameters[11] = { Value=1, Name=RimPower_1, Group=None }
+    CollectedScalarParameters[12] = { Value=0, Name=LightVectorPower_2, Group=None }
+    CollectedScalarParameters[13] = { Value=0, Name=RegionOffset_2, Group=None }
+    CollectedScalarParameters[14] = { Value=0, Name=RegionOffset_Middle_2, Group=None }
+    CollectedScalarParameters[15] = { Value=10, Name=MiddleGradPower_2, Group=None }
+    CollectedScalarParameters[16] = { Value=0, Name=RimLightPow_dark_2, Group=None }
+    CollectedScalarParameters[17] =
     {
         Value = 20
         Name = RimLightPow_bright_Middle_2
         Group = None
     }
-    CollectedScalarParameters[17] = { Value=0, Name=RimLightPow_bright_2, Group=None }
-    CollectedScalarParameters[18] = { Value=0, Name=RimLightInfl_bright_2, Group=None }
-    CollectedScalarParameters[19] = { Value=0, Name=RimLightInfl_dark_2, Group=None }
-    CollectedScalarParameters[20] = { Value=1, Name=RimPower_2, Group=None }
-    CollectedScalarParameters[21] = { Value=0, Name=LightVectorPower_3, Group=None }
-    CollectedScalarParameters[22] = { Value=0, Name=RegionOffset_3, Group=None }
-    CollectedScalarParameters[23] = { Value=0, Name=RegionOffset_Middle_3, Group=None }
-    CollectedScalarParameters[24] = { Value=10, Name=MiddleGradPower_3, Group=None }
-    CollectedScalarParameters[25] = { Value=0, Name=RimLightPow_dark_3, Group=None }
+    CollectedScalarParameters[18] = { Value=0, Name=RimLightPow_bright_2, Group=None }
+    CollectedScalarParameters[19] = { Value=0, Name=RimLightInfl_bright_2, Group=None }
+    CollectedScalarParameters[20] = { Value=0, Name=RimLightInfl_dark_2, Group=None }
+    CollectedScalarParameters[21] = { Value=1, Name=RimPower_2, Group=None }
+    CollectedScalarParameters[22] = { Value=0, Name=LightVectorPower_3, Group=None }
+    CollectedScalarParameters[23] = { Value=0, Name=RegionOffset_3, Group=None }
+    CollectedScalarParameters[24] = { Value=0, Name=RegionOffset_Middle_3, Group=None }
+    CollectedScalarParameters[25] = { Value=10, Name=MiddleGradPower_3, Group=None }
     CollectedScalarParameters[26] =
+    {
+        Value = -1e-06
+        Name = RimLightPow_dark_3
+        Group = None
+    }
+    CollectedScalarParameters[27] =
     {
         Value = 20
         Name = RimLightPow_bright_Middle_3
         Group = None
     }
-    CollectedScalarParameters[27] = { Value=0, Name=RimLightPow_bright_3, Group=None }
-    CollectedScalarParameters[28] = { Value=0, Name=RimLightInfl_bright_3, Group=None }
-    CollectedScalarParameters[29] = { Value=0, Name=RimLightInfl_dark_3, Group=None }
-    CollectedScalarParameters[30] = { Value=1, Name=RimPower_3, Group=None }
-    CollectedScalarParameters[31] = { Value=0, Name=LightVectorPower_4, Group=None }
-    CollectedScalarParameters[32] = { Value=0, Name=RegionOffset_4, Group=None }
-    CollectedScalarParameters[33] = { Value=0, Name=BloomIntensity, Group=None }
-    CollectedScalarParameters[34] = { Value=0, Name=BloomIntensity_Hight, Group=None }
-    CollectedScalarParameters[35] = { Value=0, Name=RegionOffset_Middle_4, Group=None }
-    CollectedScalarParameters[36] = { Value=10, Name=MiddleGradPower_4, Group=None }
-    CollectedScalarParameters[37] = { Value=0, Name=RimLightPow_dark_4, Group=None }
-    CollectedScalarParameters[38] =
+    CollectedScalarParameters[28] = { Value=0, Name=RimLightPow_bright_3, Group=None }
+    CollectedScalarParameters[29] = { Value=0, Name=RimLightInfl_bright_3, Group=None }
+    CollectedScalarParameters[30] = { Value=0, Name=RimLightInfl_dark_3, Group=None }
+    CollectedScalarParameters[31] = { Value=1, Name=RimPower_3, Group=None }
+    CollectedScalarParameters[32] = { Value=0, Name=LightVectorPower_4, Group=None }
+    CollectedScalarParameters[33] = { Value=0, Name=RegionOffset_4, Group=None }
+    CollectedScalarParameters[34] = { Value=0, Name=BloomIntensity, Group=None }
+    CollectedScalarParameters[35] = { Value=0, Name=BloomIntensity_Hight, Group=None }
+    CollectedScalarParameters[36] = { Value=0, Name=RegionOffset_Middle_4, Group=None }
+    CollectedScalarParameters[37] = { Value=10, Name=MiddleGradPower_4, Group=None }
+    CollectedScalarParameters[38] = { Value=0, Name=RimLightPow_dark_4, Group=None }
+    CollectedScalarParameters[39] =
     {
         Value = 20
         Name = RimLightPow_bright_Middle_4
         Group = None
     }
-    CollectedScalarParameters[39] = { Value=0, Name=RimLightPow_bright_4, Group=None }
-    CollectedScalarParameters[40] = { Value=0, Name=RimLightInfl_bright_4, Group=None }
-    CollectedScalarParameters[41] = { Value=0, Name=RimLightInfl_dark_4, Group=None }
-    CollectedScalarParameters[42] = { Value=1, Name=RimPower_4, Group=None }
-    CollectedScalarParameters[43] = { Value=1, Name=OutlineMask, Group=None }
-    CollectedScalarParameters[44] = { Value=0.5, Name=OutlineID, Group=None }
-    CollectedScalarParameters[45] = { Value=0, Name=RimCellPower_1, Group=None }
-    CollectedScalarParameters[46] = { Value=0, Name=RimCellPower_2, Group=None }
-    CollectedScalarParameters[47] = { Value=0, Name=RimCellPower_3, Group=None }
-    CollectedScalarParameters[48] = { Value=0, Name=RimCellPower_4, Group=None }
-    CollectedScalarParameters[49] = { Value=1, Name=Opacity Threshold, Group=None }
+    CollectedScalarParameters[40] = { Value=0, Name=RimLightPow_bright_4, Group=None }
+    CollectedScalarParameters[41] = { Value=0, Name=RimLightInfl_bright_4, Group=None }
+    CollectedScalarParameters[42] = { Value=0, Name=RimLightInfl_dark_4, Group=None }
+    CollectedScalarParameters[43] = { Value=1, Name=RimPower_4, Group=None }
+    CollectedScalarParameters[44] = { Value=1, Name=OutlineMask, Group=None }
+    CollectedScalarParameters[45] = { Value=0.5, Name=OutlineID, Group=None }
+    CollectedScalarParameters[46] = { Value=0, Name=RimCellPower_1, Group=None }
+    CollectedScalarParameters[47] = { Value=0, Name=RimCellPower_2, Group=None }
+    CollectedScalarParameters[48] = { Value=0, Name=RimCellPower_3, Group=None }
+    CollectedScalarParameters[49] = { Value=0, Name=RimCellPower_4, Group=None }
 }
 CollectedVectorParameters[12] =
 {

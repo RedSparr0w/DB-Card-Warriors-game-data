@@ -10,23 +10,23 @@ ReferencedTextures[4] =
 }
 Expressions[101] =
 {
-    Expressions[3] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_EXP_Explosion_01.MaterialExpressionTextureSample_2'
-    Expressions[9] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_EXP_Explosion_01.MaterialExpressionTextureSample_18'
-    Expressions[15] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_EXP_Explosion_01.MaterialExpressionScalarParameter_18'
-    Expressions[16] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_EXP_Explosion_01.MaterialExpressionScalarParameter_19'
-    Expressions[20] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_EXP_Explosion_01.MaterialExpressionScalarParameter_20'
-    Expressions[22] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_EXP_Explosion_01.MaterialExpressionScalarParameter_21'
-    Expressions[40] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_EXP_Explosion_01.MaterialExpressionTextureSample_3'
-    Expressions[45] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_EXP_Explosion_01.MaterialExpressionScalarParameter_0'
-    Expressions[48] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_EXP_Explosion_01.MaterialExpressionTextureSample_4'
-    Expressions[54] = MaterialExpressionVectorParameter'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_EXP_Explosion_01.MaterialExpressionVectorParameter_5'
-    Expressions[55] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_EXP_Explosion_01.MaterialExpressionScalarParameter_3'
-    Expressions[59] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_EXP_Explosion_01.MaterialExpressionTextureSample_5'
-    Expressions[67] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_EXP_Explosion_01.MaterialExpressionScalarParameter_4'
-    Expressions[77] = MaterialExpressionTextureSampleParameter2D'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_EXP_Explosion_01.MaterialExpressionTextureSampleParameter2D_2'
-    Expressions[82] = MaterialExpressionTextureSampleParameter2D'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_EXP_Explosion_01.MaterialExpressionTextureSampleParameter2D_3'
-    Expressions[92] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_EXP_Explosion_01.MaterialExpressionTextureSample_6'
-    Expressions[98] = MaterialExpressionStaticSwitchParameter'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_EXP_Explosion_01.MaterialExpressionStaticSwitchParameter_0'
+    Expressions[2] = MaterialExpressionStaticSwitchParameter'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_EXP_Explosion_01.MaterialExpressionStaticSwitchParameter_0'
+    Expressions[5] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_EXP_Explosion_01.MaterialExpressionTextureSample_2'
+    Expressions[11] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_EXP_Explosion_01.MaterialExpressionTextureSample_18'
+    Expressions[17] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_EXP_Explosion_01.MaterialExpressionScalarParameter_18'
+    Expressions[18] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_EXP_Explosion_01.MaterialExpressionScalarParameter_19'
+    Expressions[22] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_EXP_Explosion_01.MaterialExpressionScalarParameter_20'
+    Expressions[24] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_EXP_Explosion_01.MaterialExpressionScalarParameter_21'
+    Expressions[41] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_EXP_Explosion_01.MaterialExpressionTextureSample_3'
+    Expressions[46] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_EXP_Explosion_01.MaterialExpressionScalarParameter_0'
+    Expressions[49] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_EXP_Explosion_01.MaterialExpressionTextureSample_4'
+    Expressions[55] = MaterialExpressionVectorParameter'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_EXP_Explosion_01.MaterialExpressionVectorParameter_5'
+    Expressions[56] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_EXP_Explosion_01.MaterialExpressionScalarParameter_3'
+    Expressions[60] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_EXP_Explosion_01.MaterialExpressionTextureSample_5'
+    Expressions[68] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_EXP_Explosion_01.MaterialExpressionScalarParameter_4'
+    Expressions[78] = MaterialExpressionTextureSampleParameter2D'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_EXP_Explosion_01.MaterialExpressionTextureSampleParameter2D_2'
+    Expressions[83] = MaterialExpressionTextureSampleParameter2D'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_EXP_Explosion_01.MaterialExpressionTextureSampleParameter2D_3'
+    Expressions[93] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_EXP_Explosion_01.MaterialExpressionTextureSample_6'
 }
 CachedExpressionData =
 {
@@ -46,7 +46,7 @@ CachedExpressionData =
     }
     ReferencedTextures[0] = {}
 }
-BlendMode = BLEND_Masked (1)
+BlendMode = BLEND_Translucent (2)
 OpacityMaskClipValue = 0.333
 CollectedTextureParameters[2] =
 {

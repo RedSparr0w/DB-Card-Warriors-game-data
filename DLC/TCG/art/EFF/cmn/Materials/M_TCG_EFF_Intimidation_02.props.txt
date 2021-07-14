@@ -1,16 +1,20 @@
 TwoSided = true
 bDisableDepthTest = false
 bIsMasked = false
-ReferencedTextures[2] =
+ReferencedTextures[3] =
 {
     ReferencedTextures[0] = Texture2D'/AT/Content/Art/EFF/e/useful/Textures/T_useful_wave_03_00_A.T_useful_wave_03_00_A'
     ReferencedTextures[1] = Texture2D'/AT/Content/Art/EFF/e/useful/Textures/T_useful_smk_12_00_E.T_useful_smk_12_00_E'
+    ReferencedTextures[2] = Texture2D'/AT/Content/Art/EFF/e/useful/Textures/T_useful_ptc_01_02_E.T_useful_ptc_01_02_E'
 }
-Expressions[27] =
+Expressions[52] =
 {
     Expressions[8] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_EFF_Intimidation_02.MaterialExpressionTextureSample_3'
     Expressions[9] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_EFF_Intimidation_02.MaterialExpressionTextureSample_5'
     Expressions[24] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_EFF_Intimidation_02.MaterialExpressionScalarParameter_0'
+    Expressions[28] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_EFF_Intimidation_02.MaterialExpressionTextureSample_11'
+    Expressions[33] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_EFF_Intimidation_02.MaterialExpressionTextureSample_0'
+    Expressions[38] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG/art/EFF/cmn/Materials/M_TCG_EFF_Intimidation_02.MaterialExpressionTextureSample_1'
 }
 CachedExpressionData =
 {

@@ -20,7 +20,7 @@ StaticMaterials[1] =
 Sockets[0] = {}
 ExtendedBounds =
 {
-    Origin = { X=0.0138912, Y=-0.0187454, Z=-7.45058e-009 }
-    BoxExtent = { X=11.9267, Y=16.8951, Z=7.45058e-009 }
+    Origin = { X=0.0138912, Y=-0.0187454, Z=-7.45058e-09 }
+    BoxExtent = { X=11.9267, Y=16.8951, Z=7.45058e-09 }
     SphereRadius = 20.6806
 }

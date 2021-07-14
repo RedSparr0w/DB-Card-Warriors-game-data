@@ -1,0 +1,26 @@
+Materials[1] =
+{
+    Materials[0] = Material3'/AT/Content/DLC/TCG_Ex_2/art/EFF/cmn/Meshes/MI_e_e_cmn_m0001.MI_e_e_cmn_m0001'
+}
+SourceModels[0] = {}
+StaticMaterials[1] =
+{
+    StaticMaterials[0] =
+    {
+        MaterialInterface = Material3'/AT/Content/DLC/TCG_Ex_2/art/EFF/cmn/Meshes/MI_e_e_cmn_m0001.MI_e_e_cmn_m0001'
+        MaterialSlotName = MI_e_e_cmn_m0001
+        UVChannelData =
+        {
+            bInitialized = true
+            bOverrideDensities = false
+            LocalUVDensities[4] = { 9.8315, 23.3037, 23.3042, 0 }
+        }
+    }
+}
+Sockets[0] = {}
+ExtendedBounds =
+{
+    Origin = { X=-2.20076, Y=-0.01898, Z=1.92229 }
+    BoxExtent = { X=4.55521, Y=0.648261, Z=8.10422 }
+    SphereRadius = 8.40932
+}

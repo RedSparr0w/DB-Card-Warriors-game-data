@@ -1,0 +1,52 @@
+TwoSided = false
+bDisableDepthTest = false
+bIsMasked = false
+ReferencedTextures[1] =
+{
+    ReferencedTextures[0] = Texture2D'/AT/Content/Art/EFF/e/useful/Textures/T_useful_shock_0001_A.T_useful_shock_0001_A'
+}
+Expressions[24] =
+{
+    Expressions[5] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG_Ex_2/art/EFF/cmn/Materials/M_TCG_Ex_2_Skill_3046_PowerUp_aura_02_00.MaterialExpressionTextureSample_2'
+    Expressions[7] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG_Ex_2/art/EFF/cmn/Materials/M_TCG_Ex_2_Skill_3046_PowerUp_aura_02_00.MaterialExpressionTextureSample_3'
+    Expressions[21] = MaterialExpressionVectorParameter'/AT/Content/DLC/TCG_Ex_2/art/EFF/cmn/Materials/M_TCG_Ex_2_Skill_3046_PowerUp_aura_02_00.MaterialExpressionVectorParameter_0'
+}
+CachedExpressionData =
+{
+    Parameters =
+    {
+        Entries[5] =
+        {
+            Entries[0] = { ParameterInfos[0]={} }
+            Entries[1] = { ParameterInfos[0]={} }
+            Entries[2] = { ParameterInfos[0]={} }
+            Entries[3] = { ParameterInfos[0]={} }
+            Entries[4] = { ParameterInfos[0]={} }
+        }
+        ScalarValues[0] = {}
+        VectorValues[0] = {}
+        TextureValues[0] = {}
+    }
+    ReferencedTextures[0] = {}
+}
+BlendMode = BLEND_Translucent (2)
+OpacityMaskClipValue = 0.333
+CollectedTextureParameters[0] = {}
+CollectedScalarParameters[0] = {}
+CollectedVectorParameters[1] =
+{
+    CollectedVectorParameters[0] =
+    {
+        Value = { R=0, G=2, B=1.16667, A=1 }
+        Name = color
+        Group = None
+    }
+}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

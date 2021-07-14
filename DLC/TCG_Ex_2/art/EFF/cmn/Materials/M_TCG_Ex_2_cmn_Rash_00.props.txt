@@ -1,0 +1,83 @@
+TwoSided = false
+bDisableDepthTest = false
+bIsMasked = false
+ReferencedTextures[2] =
+{
+    ReferencedTextures[0] = Texture2D'/AT/Content/Art/EFF/e/cmn/Textures/T_cmn_noise_05_00_N.T_cmn_noise_05_00_N'
+    ReferencedTextures[1] = Texture2D'/AT/Content/Art/EFF/e/useful/Textures/T_useful_ptc_03_00.T_useful_ptc_03_00'
+}
+Expressions[45] =
+{
+    Expressions[10] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG_Ex_2/art/EFF/cmn/Materials/M_TCG_Ex_2_cmn_Rash_00.MaterialExpressionScalarParameter_2'
+    Expressions[15] = MaterialExpressionTextureSampleParameter2D'/AT/Content/DLC/TCG_Ex_2/art/EFF/cmn/Materials/M_TCG_Ex_2_cmn_Rash_00.MaterialExpressionTextureSampleParameter2D_1'
+    Expressions[16] = MaterialExpressionVectorParameter'/AT/Content/DLC/TCG_Ex_2/art/EFF/cmn/Materials/M_TCG_Ex_2_cmn_Rash_00.MaterialExpressionVectorParameter_0'
+    Expressions[17] = MaterialExpressionVectorParameter'/AT/Content/DLC/TCG_Ex_2/art/EFF/cmn/Materials/M_TCG_Ex_2_cmn_Rash_00.MaterialExpressionVectorParameter_1'
+    Expressions[18] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG_Ex_2/art/EFF/cmn/Materials/M_TCG_Ex_2_cmn_Rash_00.MaterialExpressionScalarParameter_0'
+    Expressions[26] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG_Ex_2/art/EFF/cmn/Materials/M_TCG_Ex_2_cmn_Rash_00.MaterialExpressionScalarParameter_4'
+    Expressions[28] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG_Ex_2/art/EFF/cmn/Materials/M_TCG_Ex_2_cmn_Rash_00.MaterialExpressionTextureSample_0'
+    Expressions[35] = MaterialExpressionTextureSample'/AT/Content/DLC/TCG_Ex_2/art/EFF/cmn/Materials/M_TCG_Ex_2_cmn_Rash_00.MaterialExpressionTextureSample_1'
+    Expressions[40] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG_Ex_2/art/EFF/cmn/Materials/M_TCG_Ex_2_cmn_Rash_00.MaterialExpressionScalarParameter_3'
+    Expressions[41] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG_Ex_2/art/EFF/cmn/Materials/M_TCG_Ex_2_cmn_Rash_00.MaterialExpressionScalarParameter_5'
+    Expressions[43] = MaterialExpressionScalarParameter'/AT/Content/DLC/TCG_Ex_2/art/EFF/cmn/Materials/M_TCG_Ex_2_cmn_Rash_00.MaterialExpressionScalarParameter_7'
+}
+CachedExpressionData =
+{
+    Parameters =
+    {
+        Entries[5] =
+        {
+            Entries[0] = { ParameterInfos[0]={} }
+            Entries[1] = { ParameterInfos[0]={} }
+            Entries[2] = { ParameterInfos[0]={} }
+            Entries[3] = { ParameterInfos[0]={} }
+            Entries[4] = { ParameterInfos[0]={} }
+        }
+        ScalarValues[0] = {}
+        VectorValues[0] = {}
+        TextureValues[0] = {}
+    }
+    ReferencedTextures[0] = {}
+}
+BlendMode = BLEND_Translucent (2)
+OpacityMaskClipValue = 0.333
+CollectedTextureParameters[1] =
+{
+    CollectedTextureParameters[0] =
+    {
+        Texture = Texture2D'/AT/Content/Art/EFF/e/useful/Textures/T_useful_pattern_01_00_E.T_useful_pattern_01_00_E'
+        Name = MainTexture
+        Group = None
+    }
+}
+CollectedScalarParameters[6] =
+{
+    CollectedScalarParameters[0] = { Value=1.5, Name=speed, Group=None }
+    CollectedScalarParameters[1] = { Value=4, Name=colormlti, Group=None }
+    CollectedScalarParameters[2] = { Value=4, Name=colormlti_1, Group=None }
+    CollectedScalarParameters[3] = { Value=1.5, Name=U_scale, Group=None }
+    CollectedScalarParameters[4] = { Value=3, Name=V_scale, Group=None }
+    CollectedScalarParameters[5] = { Value=0.3, Name=dist, Group=None }
+}
+CollectedVectorParameters[2] =
+{
+    CollectedVectorParameters[0] =
+    {
+        Value = { R=0.6, G=0.024685, B=0.018716, A=1 }
+        Name = color01
+        Group = None
+    }
+    CollectedVectorParameters[1] =
+    {
+        Value = { R=1, G=0.3, B=0.578413, A=1 }
+        Name = color02
+        Group = None
+    }
+}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None
+TextureStreamingData[0] = {}

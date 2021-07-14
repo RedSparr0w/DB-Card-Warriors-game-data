@@ -21,6 +21,6 @@ Sockets[0] = {}
 ExtendedBounds =
 {
     Origin = { X=3.57906, Y=10.4378, Z=0.654508 }
-    BoxExtent = { X=8.04556, Y=6.38641, Z=4.20809e-005 }
+    BoxExtent = { X=8.04556, Y=6.38641, Z=4.20809e-05 }
     SphereRadius = 10.2722
 }
